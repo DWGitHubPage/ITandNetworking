@@ -1,0 +1,35 @@
+<!-- Simple spam form honeypot. -->
+
+<form id="myformid" action="/myformaction">
+  <label for="name">Your Name</label>
+  <input type="text" id="name" name="name" placeholder="Your name here" required maxlength="100">
+  <label for="email">Your E-mail</label>
+  <input type="email" id="email" name="email" placeholder="Your e-mail here" required>
+</form>
+
+<style>
+  .intruder{
+      opacity: 0;
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 0;
+      width: 0;
+      z-index: -1;
+  }
+</style>
+
+<form id="myformid" action="/myformaction">
+
+  <!-- Real fields -->
+  <label for="nameaksljf">Your Name</label>
+  <input type="text" id="namefrs" name="namefrs" placeholder="Your name here" required maxlength="100">
+  <label for="emailll">Your E-mail</label>
+  <input type="text" id="emailll" name="emailll" placeholder="Your e-mail here" required>
+
+  <!-- Honeypot -->
+  <label class="intruder" for="name"></label>
+  <input class="intruder" autocomplete="off" type="text" id="name" name="name" placeholder="Your name here">
+  <label class="intruder" for="email"></label>
+  <input class="intruder" autocomplete="off" type="email" id="email" name="email" placeholder="Your e-mail here">
+</form>
