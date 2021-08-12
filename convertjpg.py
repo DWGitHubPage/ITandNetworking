@@ -1,3 +1,6 @@
+# Python 3.9.5
+# Converting image to JPG.
+
 import os
 import sys
 from PIL import Image
