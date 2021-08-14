@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Python 3.9.5
 '''When you need to do some math quickly. Open CL and type "python3 quickmath.py 
 and (add, sub., divide, or multiply) & the numbers."'''
