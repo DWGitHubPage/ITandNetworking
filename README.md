@@ -16,3 +16,12 @@
 [Computer Networks (Fifth Edition) by Andrew S. Tanenbaum](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf)
 
 [High Performance Browser Networking by Ilya Grigorik](https://hpbn.co)
+
+
+## Troubleshooting Methods:
+
+[CompTIA's Seven-Step Network Troubleshooting Method](https://www.comptia.org/content/guides/a-guide-to-network-troubleshooting)
+
+[Kepner-Tregoe Troubleshooting Method](https://www.decision-making-confidence.com/kepner-tregoe-decision-making.html)
+
+[U.S. Navy's Six-Step Troubleshooting Method](https://www.manitonetworks.com/networking/2018/7/20/six-step-troubleshooting-method)
