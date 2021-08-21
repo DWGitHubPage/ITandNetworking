@@ -21,6 +21,7 @@ Resources:
 
 [CompTIA's Seven Step Network Troubleshooting Guide](https://www.comptia.org/content/guides/a-guide-to-network-troubleshooting)
 
+[Kepner-Tregoe Four-Step Method:](https://www.decision-making-confidence.com/kepner-tregoe-decision-making.html)
 
 I've heard that this method is useful for Sysadmin's especially:  
 [U.S. Navy's Six Step Troubleshooting Method](https://www.manitonetworks.com/networking/2018/7/20/six-step-troubleshooting-method) 
