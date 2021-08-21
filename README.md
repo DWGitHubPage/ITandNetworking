@@ -18,7 +18,7 @@
 [High Performance Browser Networking by Ilya Grigorik](https://hpbn.co)
 
 
-## Troubleshooting Methods:
+<b>Troubleshooting Methods</b>
 
 [CompTIA's Seven-Step Network Troubleshooting Method](https://www.comptia.org/content/guides/a-guide-to-network-troubleshooting)
 
