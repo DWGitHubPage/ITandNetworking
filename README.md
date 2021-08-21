@@ -1,6 +1,6 @@
 # ITandNetworking
 
-Resources:
+# Resources:
 
 [Network+ Acronyms](https://phoenixts.com/wp-content/uploads/2015/08/Network-Acronyms.pdf)
 
