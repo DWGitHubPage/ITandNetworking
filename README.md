@@ -19,7 +19,7 @@ Resources:
 
 # Troubleshooting Methods:
 
-[Comptia Seven Step Network Troubleshooting Guide](https://www.comptia.org/content/guides/a-guide-to-network-troubleshooting)
+[CompTIA's Seven Step Network Troubleshooting Guide](https://www.comptia.org/content/guides/a-guide-to-network-troubleshooting)
 
 
 I've heard that this method is useful for Sysadmin's especially:  
