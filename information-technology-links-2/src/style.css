@@ -1,0 +1,118 @@
+body {
+  background-attachment: fixed;
+  background-image: url("https://i.postimg.cc/NFCVF5wM/Screen-Shot-2019-08-17-at-2-42-04-PM.png"); 
+  background-position: 90%;
+  background-repeat: no-repeat;
+  background-size: cover;
+} 
+
+h1 {
+  background: white;
+  box-shadow: 40px -22px purple, 1px 2.5px black, -40px 28px plum, -8px -6px 9px black, -35px 35px 12px black;
+  font: 56px "Arial Black", "Arial";
+  margin: 5%;
+  position: relative;
+  top: 50px;
+  text-align: center;
+  text-shadow: 2px 2px thistle, 3px 3px black;
+}
+
+h2 {
+  background-color: rgba(255, 0, 0, 0.2);
+  border: 1px solid black;
+  border-radius: 1px 1px 1px; 
+  box-shadow: 2px 1px 5px black;
+  color: black;
+  font-size: 65px;
+  left: 40px;
+  padding: 165px;
+  position: absolute;
+  text-shadow: 2px 2px white, 3px 3px black;
+  top: 200px;
+  transform: rotate(2.4deg);
+}
+
+h3 {
+  background-color: rgba(40, 143, 240, 0.2);
+  border: 1px solid black;
+  border-radius: 1px 1px; 
+  box-shadow: 2px 1px 5px black;
+  font-size: 65px;
+  padding: 170px;
+  position: absolute;
+  right: 90px;
+  text-shadow: 2px 2px white, 3px 3px black;
+  top: 280px;
+  transform: rotate(-3.8deg);
+}
+
+.news {
+  font-size: 50px;
+  left: 100px;
+  position: absolute;
+  top: 550px;
+}
+
+.news1 {
+  background-image: linear-gradient(to right, white, salmon); 
+  border: 1px black solid;
+  border-radius: 1px 50px; 
+  color: black;
+  padding: 25px;
+  text-decoration: none;
+  text-shadow: 1px 1px white, 2px 2px black;
+}
+
+.news1:hover, .news2:hover {
+  animation: blinkingText 0.5s infinite;
+  font-size: 53px;
+  text-shadow: 1px 1px black;
+}
+
+.news2 {
+  background: white;
+  border: 1px black solid;
+  border-radius: 50px 1px; 
+  color: black;
+  padding: 23px;
+  text-decoration: none;
+  text-shadow: 1px 1px white, 2px 2px black;
+}
+
+.podcasts {
+  font-size: 50px;
+  position: absolute;
+  top: 650px;
+  right: 15px;
+}
+
+.podcast1 {
+  background-image: linear-gradient(to   right, white, lightblue); 
+  border: 1px black solid;
+  border-radius: 50px 1px; 
+  color: black;
+  padding: 25px;
+  text-decoration: none;
+  text-shadow: 1px 1px white, 2px 2px black;
+}
+
+.podcast1:hover, .podcast2:hover {
+  animation:blinkingText 0.5s infinite;
+  font-size: 53px;
+  text-shadow: 1px 1px black;
+}
+
+@keyframes blinkingText {
+  10%{color: #0000;}
+  99%{color: yellow;}
+}
+
+.podcast2 {
+  background: white; 
+  border: 1px black solid;
+  border-radius: 1px 50px; 
+  color: black;
+  padding: 23px;
+  text-decoration: none;
+  text-shadow: 1px 1px white, 2px 2px black;
+}
