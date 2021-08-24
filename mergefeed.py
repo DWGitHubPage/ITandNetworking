@@ -10,7 +10,6 @@ copy and paste the adress from the address bar into the url below'''
 
 import webbrowser
 
-
 url = 'https://mergefeed.net/Untitled?urls=https://news.ycombinator.com/+https://techcrunch.com/+https://www.techmeme.com/'
 
 webbrowser.open_new_tab(url)
