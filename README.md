@@ -27,3 +27,9 @@
 [Kepner-Tregoe Troubleshooting Method](https://www.decision-making-confidence.com/kepner-tregoe-decision-making.html)
 
 [U.S. Navy's Six-Step Troubleshooting Method](https://www.manitonetworks.com/networking/2018/7/20/six-step-troubleshooting-method)
+
+<b>Microsoft 365</b>
+
+[Microsoft 365: Cheat Sheet & Resources](https://www.techrepublic.com/article/microsoft-365-a-cheat-sheet/)
+
+[Office 365 PowerShell Scripts](https://github.com/admindroid-community/powershell-scripts)
