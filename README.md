@@ -20,7 +20,7 @@
 [High Performance Browser Networking by Ilya Grigorik](https://hpbn.co)
 
 
-<b>Troubleshooting Methods</b>
+<b>Troubleshooting Methods:</b>
 
 [CompTIA's Seven-Step Network Troubleshooting Method](https://www.comptia.org/content/guides/a-guide-to-network-troubleshooting)
 
@@ -28,7 +28,7 @@
 
 [U.S. Navy's Six-Step Troubleshooting Method](https://www.manitonetworks.com/networking/2018/7/20/six-step-troubleshooting-method)
 
-<b>Microsoft 365</b>
+<b>Microsoft 365:</b>
 
 [Microsoft 365: Cheat Sheet & Resources](https://www.techrepublic.com/article/microsoft-365-a-cheat-sheet/)
 
