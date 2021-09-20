@@ -35,3 +35,7 @@
 [Microsoft 365: Cheat Sheet & Resources](https://www.techrepublic.com/article/microsoft-365-a-cheat-sheet/)
 
 [Office 365 PowerShell Scripts](https://github.com/admindroid-community/powershell-scripts)
+
+<b>Scan directory using TreeSize</b>
+
+[TreeSize Free](https://www.jam-software.com/treesize_free)
