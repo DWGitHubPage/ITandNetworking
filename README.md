@@ -11,15 +11,35 @@
 [CompTIA Security+ SY0-501 Acronyms, Ports and Services](https://scubido.github.io)
 
 
+<b>DNS</b>
+
+[DNS Record Types](https://www.nslookup.io/learning/dns-record-types/)
+
+[Subnet Mask Cheat Sheet](https://dnsmadeeasy.com/support/subnet/)
+
+
+<b>Microsoft 365:</b>
+
+[Microsoft 365: Cheat Sheet & Resources](https://www.techrepublic.com/article/microsoft-365-a-cheat-sheet/)
+
+[Office 365 PowerShell Scripts](https://github.com/admindroid-community/powershell-scripts)
+
+
 <b>Port Numbers</b>
 
 [Complete List of Port Numbers by IANA](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
+
 
 <b>Networking Books:</b>
 
 [Computer Networks (Fifth Edition) by Andrew S. Tanenbaum](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf)
 
 [High Performance Browser Networking by Ilya Grigorik](https://hpbn.co)
+
+
+<b>Scan directory using TreeSize</b>
+
+[TreeSize Free](https://www.jam-software.com/treesize_free)
 
 
 <b>Troubleshooting Methods:</b>
@@ -29,13 +49,3 @@
 [Kepner-Tregoe Troubleshooting Method](https://www.decision-making-confidence.com/kepner-tregoe-decision-making.html)
 
 [U.S. Navy's Six-Step Troubleshooting Method](https://www.manitonetworks.com/networking/2018/7/20/six-step-troubleshooting-method)
-
-<b>Microsoft 365:</b>
-
-[Microsoft 365: Cheat Sheet & Resources](https://www.techrepublic.com/article/microsoft-365-a-cheat-sheet/)
-
-[Office 365 PowerShell Scripts](https://github.com/admindroid-community/powershell-scripts)
-
-<b>Scan directory using TreeSize</b>
-
-[TreeSize Free](https://www.jam-software.com/treesize_free)
