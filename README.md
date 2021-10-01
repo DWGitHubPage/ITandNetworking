@@ -25,6 +25,23 @@
 [Office 365 PowerShell Scripts](https://github.com/admindroid-community/powershell-scripts)
 
 
+<b>Microsoft Windows</b>
+
+[Command Prompt Commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302)
+
+[Windows 7 Run Commands](https://www.lifewire.com/run-commands-in-windows-7-2618085)
+
+[Windows 8 Run Commands](https://www.lifewire.com/run-commands-in-windows-8-2618086)
+
+[Windows 10 Run Commands](https://secnhack.in/windows-10-run-commands-cheat-sheet/)
+
+[Windows 11/10 Run Commands](https://thegeekpage.com/101-windows-10-run-commands-shortcuts-to-find-hidden-features/)
+
+[Windows Command Line Cheat Sheet](https://github.com/security-cheatsheet/cmd-command-cheat-sheet)
+
+[Windows Commands - Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
+
+
 <b>Networking Books:</b>
 
 [Computer Networks (Fifth Edition) by Andrew S. Tanenbaum](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf)
