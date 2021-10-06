@@ -57,12 +57,3 @@
 <b>Scan directory using TreeSize</b>
 
 [TreeSize Free](https://www.jam-software.com/treesize_free)
-
-
-<b>Troubleshooting Methods:</b>
-
-[CompTIA's Seven-Step Network Troubleshooting Method](https://www.comptia.org/content/guides/a-guide-to-network-troubleshooting)
-
-[Kepner-Tregoe Troubleshooting Method](https://www.decision-making-confidence.com/kepner-tregoe-decision-making.html)
-
-[U.S. Navy's Six-Step Troubleshooting Method](https://www.manitonetworks.com/networking/2018/7/20/six-step-troubleshooting-method)
