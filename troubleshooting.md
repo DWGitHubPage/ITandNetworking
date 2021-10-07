@@ -1,8 +1,12 @@
-A file for troubleshooting. Special troubleshooting techniques and other information.
+A file for troubleshooting.
 
-- Resources for Troubleshooting. Line 8
-- Troubleshooting Methods. Line 13
-- Port 25 is Blocked. Line 22     
+- Resources for Troubleshooting. Line 12
+- Troubleshooting Methods. Line 17
+
+Troubleshooting Issues:
+
+- NXDOMAIN error. Line 26
+- Port 25 is Blocked. Line 38     
 
 
 Resources for Troubleshooting:
@@ -17,6 +21,18 @@ Troubleshooting Methods:
 [Kepner-Tregoe Troubleshooting Method](https://www.decision-making-confidence.com/kepner-tregoe-decision-making.html)
 
 [U.S. Navy's Six-Step Troubleshooting Method](https://www.manitonetworks.com/networking/2018/7/20/six-step-troubleshooting-method)
+
+
+NXDOMAIN error.
+
+1. Release and Renew IP Address
+2. Restart DNS Client Service
+3. Change DNS Servers
+4. If using Chrome, reset Chrome Flags
+5. Disable VPN and Antivirus Temporarily
+6. Check Your Local Hosts File
+7. Check DNS of Your Domain
+8. Restart Your Computer
 
 
 Port 25 - How to check if port 25 is blocked.
