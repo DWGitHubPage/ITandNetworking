@@ -19,6 +19,8 @@
 
 [AWS Documentation](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do)
 
+[AWS EC2 Cheat Sheet by DigitalCloud](https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/)
+
 
 <b>DNS</b>
 
