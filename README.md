@@ -11,6 +11,15 @@
 [CompTIA Security+ SY0-501 Acronyms, Ports and Services](https://scubido.github.io)
 
 
+<b>AWS</b>
+
+[AWS Access Keys - A Reference](https://www.nojones.net/posts/aws-access-keys-a-reference/)
+
+[AWS Cheat Sheets by Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
+
+[AWS Documentation](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do)
+
+
 <b>DNS</b>
 
 [DNS Record Types](https://www.nslookup.io/learning/dns-record-types/)
