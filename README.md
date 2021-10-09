@@ -1,6 +1,27 @@
 # ITandNetworking
 
-<b>Resources:</b>
+
+# Knowledge Base/Documentation
+
+[Android Help](https://support.google.com/android/#topic=7313011)
+
+[Intel FPGA Knowledge Base](https://www.intel.com/content/www/us/en/support/programmable/kdb-filter.html#sort=%40articlepublisheddate%20descending)
+
+[Microsoft Docs/TechNet](https://docs.microsoft.com/en-us/)
+
+[Microsoft Support](https://support.microsoft.com/en-us/)
+
+[Western Digital Support](https://support-en.wd.com)
+
+
+# Compliance/Regulatory Policies
+
+[International Organization for Standardization (ISO)](https://www.iso.org/home.html)
+
+[National Institute of Standards and Technology (NIST)](https://www.nist.gov)
+
+_________________________________________________________________________________________________________________________________
+
 
 [Computer Hardware Chart](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/244026e9-00d5-4886-8ab0-2ddef61b68d2/d1ubqer-89f6179d-6cf0-482b-9143-4d948c7e6487.png/v1/fill/w_1280,h_1813,q_75,strp/computer_hardware_poster_1_7_by_sonic840.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8yNDQwMjZlOS0wMGQ1LTQ4ODYtOGFiMC0yZGRlZjYxYjY4ZDIvZDF1YnFlci04OWY2MTc5ZC02Y2YwLTQ4MmItOTE0My00ZDk0OGM3ZTY0ODcucG5nIiwid2lkdGgiOiI8PTEyODAiLCJoZWlnaHQiOiI8PTE4MTMifV1dfQ.evgrwZ2naJj0EFEBNUZKzJk-xknJcRVFWVN4PG6fqRA)
 
