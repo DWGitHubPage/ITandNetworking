@@ -22,3 +22,8 @@ https://developer.android.com/studio/command-line/logcat
 Logcat information from MIT
 
 https://stuff.mit.edu/afs/sipb/project/android/docs/tools/help/logcat.html
+
+
+ZAP Mobile App Scanner
+
+https://www.zscaler.com/blogs/security-research/introducing-zap
