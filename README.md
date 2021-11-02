@@ -5,6 +5,8 @@
 
 [CVE](https://www.cve.org)
 
+[CVE Details: The Ultimate Data Security Vulnerability Datasource](https://www.cvedetails.com)
+
 
 ## Knowledge Base/Documentation
 
