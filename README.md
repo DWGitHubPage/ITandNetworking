@@ -1,6 +1,8 @@
 # ITandNetworking
 
-## Password Strength Meter
+## Password Strength Checkers
+
+[Kaspersky Password Checker](https://password.kaspersky.com)
 
 [PasswordMonster](https://www.passwordmonster.com)
 
