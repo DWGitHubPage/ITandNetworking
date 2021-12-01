@@ -1,5 +1,9 @@
 # ITandNetworking
 
+## Password Strength Meter
+
+[PasswordMonster](https://www.passwordmonster.com)
+
 
 ## Common Vulnerabilities and Exposures
 
