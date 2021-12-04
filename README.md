@@ -46,6 +46,8 @@ ________________________________________________________________________________
 
 [CompTIA Security+ SY0-501 Acronyms, Ports and Services](https://scubido.github.io)
 
+_________________________________________________________________________________________________________________________________
+
 
 ## AWS
 
@@ -57,6 +59,8 @@ ________________________________________________________________________________
 
 [AWS EC2 Cheat Sheet by DigitalCloud](https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/)
 
+_________________________________________________________________________________________________________________________________
+
 
 ## DNS
 
@@ -64,12 +68,16 @@ ________________________________________________________________________________
 
 [Subnet Mask Cheat Sheet](https://dnsmadeeasy.com/support/subnet/)
 
+_________________________________________________________________________________________________________________________________
+
 
 ## Networking Books:
 
 [Computer Networks (Fifth Edition) by Andrew S. Tanenbaum](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf)
 
 [High Performance Browser Networking by Ilya Grigorik](https://hpbn.co)
+
+_________________________________________________________________________________________________________________________________
 
 
 ## Port Numbers
