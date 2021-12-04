@@ -1,14 +1,5 @@
 # ITandNetworking
 
-## Password Strength Checkers
-
-[Kaspersky Password Checker](https://password.kaspersky.com)
-
-[PasswordMonster](https://www.passwordmonster.com)
-
-_________________________________________________________________________________________________________________________________
-
-
 ## Common Vulnerabilities and Exposures
 
 [CVE](https://www.cve.org)
