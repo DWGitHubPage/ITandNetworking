@@ -6,6 +6,8 @@
 
 [CVE Details: The Ultimate Data Security Vulnerability Datasource](https://www.cvedetails.com)
 
+_________________________________________________________________________________________________________________________________
+
 
 ## Knowledge Base/Documentation
 
@@ -18,6 +20,8 @@
 [Microsoft Support](https://support.microsoft.com/en-us/)
 
 [Western Digital Support](https://support-en.wd.com)
+
+_________________________________________________________________________________________________________________________________
 
 
 ## Compliance/Regulatory Policies
