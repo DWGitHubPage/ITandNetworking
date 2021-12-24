@@ -4,4 +4,8 @@ https://osintframework.com
 
 ## To search people:
 
+https://www.familytreenow.com
+
 https://thatsthem.com/people-search
+
+https://www.truthfinder.com
