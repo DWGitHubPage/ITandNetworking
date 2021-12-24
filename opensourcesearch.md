@@ -7,5 +7,3 @@ https://osintframework.com
 https://www.familytreenow.com
 
 https://thatsthem.com/people-search
-
-https://www.truthfinder.com
