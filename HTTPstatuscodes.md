@@ -3,6 +3,7 @@ Database of HTTP status codes.
 Source: https://httpstatuses.com 
 
 
+
 1xx Informational
 
 100 Continue
