@@ -4,15 +4,22 @@ Source: https://httpstatuses.com
 
 
 1xx Informational
+
 100 Continue
+
 101 Switching Protocols
+
 102 Processing
 
 
 2×× Success
+
 200 OK
+
 201 Created
+
 202 Accepted
+
 203 Non-authoritative Information
 204 No Content
 205 Reset Content
