@@ -1,13 +1,9 @@
 ### List of Request For Documents that I've read or might come in handy again.
 
 
-IETF Datatracker:
+IETF Datatracker: https://datatracker.ietf.org
 
-https://datatracker.ietf.org
-
-RFC Database:
-
-https://www.rfc-editor.org/retrieve/
+RFC Database: https://www.rfc-editor.org/retrieve/
 
 ________________________________________________________________________
 
