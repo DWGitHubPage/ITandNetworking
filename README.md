@@ -3,7 +3,7 @@
 
 ## Help Desk Software
 
-[Spiceworks](https://www.spiceworks.com/business-insights-connections/)
+[Spiceworks Help Desk Ticketing Dashboard](https://on.spiceworks.com/dashboard)
 
 _________________________________________________________________________________________________________________________________
 
