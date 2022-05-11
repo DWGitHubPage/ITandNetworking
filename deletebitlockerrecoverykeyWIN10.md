@@ -1,4 +1,4 @@
-# How to delete the Bitlocker recovery key with Windows 10.
+How to delete the Bitlocker recovery key with Windows 10.
 
 
 1. Visit onedrive.live.come to go to the BitLocker recovery keys page on your online Microsoft account OneDrive page and sign in if not already.
