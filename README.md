@@ -97,4 +97,6 @@ ________________________________________________________________________________
 
 ## Subnet Calculator
 
+[IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
+
 [Online IP Subnet Calculator](https://www.subnet-calculator.com/subnet.php?net_class=C)
