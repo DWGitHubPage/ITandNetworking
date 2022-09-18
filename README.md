@@ -1,13 +1,6 @@
 # IT and Networking:
 
 
-## Help Desk Software
-
-[Spiceworks Help Desk Ticketing Dashboard](https://on.spiceworks.com/dashboard)
-
-_________________________________________________________________________________________________________________________________
-
-
 ## Common Vulnerabilities and Exposures
 
 [CVE](https://www.cve.org)
