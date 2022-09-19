@@ -857,11 +857,15 @@ TAXII - Trusted Automated eXchange of Intelligence Information
 
 TCP/IP - Transmission Control Protocol/Internet Protocol 
 
+TFTP - Trivial File Transfer Protocol
+
 TGT - Ticket Granting Ticket
 
 TKIP - Temporal Key Integrity Protocol
 
 TLS - Transport Layer Security
+
+TN - Twisted Nematic
 
 TOTP - Time-based One Time Password
 
@@ -873,6 +877,8 @@ TTP - Tactics, Techniques, and Procedures
 
 _________________________________________________________________________
 
+UAC - User Account Control
+
 UAT - User Acceptance Testing
 
 UDP - User Datagram Protocol
@@ -882,6 +888,10 @@ UEBA - User and Entity Behavior Analytics
 UEFI - Unified Extensible Firmware Interface
 
 UEM - Unified Endpoint Management
+
+UNC - Universal Naming Convention
+
+UPnP - Universal Plug and Play
 
 UPS - Uninterruptible Power Supply
 
@@ -899,11 +909,15 @@ UTP - Unshielded Twisted Pair
 
 _________________________________________________________________________
 
+VA - Vertical Alignment
+
 VBA - Visual Basic for Applications
 
 VDE - Virtual Desktop Environment
 
-VSI - Virtual Desktop Infrastructure
+VDI - Virtual Desktop Infrastructure
+
+VGA - Video Graphics Array
 
 VLAN - Virtual Local Area Network
 
@@ -911,17 +925,23 @@ VLSM - Variable-length Subnet Masking
 
 VM - Virtual Machine
 
+VNC - Virtual Network Computer
+
 VoIP - Voice over IP
 
 VPC - Virtual Private Cloud
 
 VPN - Virtual Private Network
 
+VRAM - Video Random-access Memory
+
 VTC - Video Teleconferencing
 
 _________________________________________________________________________
 
 WAF - Web Application Firewall
+
+WAN - Wide Area Network
 
 WAP - Wireless Access Point
 
@@ -931,11 +951,19 @@ WIDS - Wireless Intrusion Detection System
 
 WIPS - Wireless Intrusion Prevention System
 
+WISP - Wireless Internet Service Provider
+
+WLAN - Wireless LAN [Local Area Network]
+
+WMN - Wireless Mesh Network
+
 WORM - Write Once Read Many
 
 WPA - WiFi Protected Access
 
 WPS - WiFi Protected Setup
+
+WWAN - Wireless Wide Area Network
 
 _________________________________________________________________________
 
