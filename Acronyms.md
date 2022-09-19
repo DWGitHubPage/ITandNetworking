@@ -115,11 +115,17 @@ CFB - Cipher Feedback
 
 CHAP - Challenge-Handshake Authentication Protocol
 
+CIFS - Common Internet File System
+
 CIO - Chief Information Officer
 
 CIRT - Computer Incident Response Team
 
 CIS - Center for Internet Security
+
+CMD - Command Prompt
+
+CMOS - Complementary Metal-Oxide Semiconductor
 
 CMS - Content Management System
 
@@ -130,6 +136,8 @@ COOP - Continuity of Operations Planning
 COPE - Corporate-owned Personally Enabled
 
 CP - Contingency Planning
+
+CPU - Central Processing Unit
 
 CRC - Cyclic Redundancy Check
 
@@ -165,7 +173,11 @@ DAC - Discretionary Access Control
 
 DBA - Database Administrator
 
+DC - Direct Current
+
 DDoS - Distributed Denial-of-Service
+
+DDR - Double Data Rate
 
 DEP - Data Execution Prevention
 
@@ -177,11 +189,15 @@ DHCP - Dynamic Host Configuration Protocol
 
 DHE - Diffie-Hellman Ephemeral
 
+DIMM - Dual Inline Memory Module
+
 DKIM - Domain Keys Identified Mail
 
 DLL - Dynamic-link Library
 
 DLP - Data Loss Prevention
+
+DMA - Direct Memory Access
 
 DMARC - Domain Message Authentication Reporting and Conformance
 
@@ -664,6 +680,8 @@ SSID - Service Set Identifier
 SSL - Secure Sockets Layer
 
 SSO - Single Sign-on
+
+ST - Straight Tip
 
 STIX - Structured Threat Information eXpression
 
