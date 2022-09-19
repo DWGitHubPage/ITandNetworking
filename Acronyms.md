@@ -211,11 +211,19 @@ DoS - Denial-of-Service
 
 DPO - Data Protection Officer 
 
+DRAM - Dynamic Random-Access Memory
+
+DRM - Digital Rights Management
+
 DRP - Disaster Recovery Plan
 
 DSA - Digital Signature Algorithm 
 
 DSL - Digital Subscriber Line
+
+DVI - Digital Visual Interface
+
+DVI-D - Digital Visual Interface-Digital
 
 _________________________________________________________________________
 
@@ -225,15 +233,19 @@ ECB - Electronic Code Book
 
 ECC - Elliptic-curve Cryptography
 
+ECC - Error Correcting Code
+
 ECDHE - Elliptic-curve Diffie-Hellman Ephemeral
 
 ECDSA - Elliptic-curve Digital Signature Algorithm 
 
 EDR - Endpoint Detection and Response
 
-EFS - Encrypted File System 
+EFS - Encrypted File System or Encrypting File System
 
 EIP - Extended Instruction Pointer 
+
+EMI - Electromagnetic Interference
 
 EOL - End of Life
 
@@ -241,15 +253,33 @@ EOS - End of Service
 
 ERP - Enterprise Resource Planning 
 
+eSATA - External Serial Advanced Technology Attachment
+
+ESD - Electrostatic Discharge
+
 ESN - Electronic Serial Number
 
 ESP - Encapsulating Security Payload 
 
 ESSID - Extended Service Set Identifier
 
+EULA - End-User License Agreement
+
+exFAT Extensible File Allocation Table 
+
+ext - Extended File System
+
 _________________________________________________________________________
 
 FACL - File System Access Control List 
+
+FAT - File Allocation Table
+
+FAT12 - 12-bit File Allocation Table 
+
+FAT16 - 16-bit File Allocation Table 
+
+FAT32 - 32-bit File Allocation Table
 
 FDE - Full Disk Encryption
 
@@ -258,6 +288,8 @@ FIM - File Integrity Monitoring
 FPGA - Field Programmable Gate Array
 
 FRR - False Rejection Rate 
+
+FSB - Front-Side Bus
 
 FTP - File Transfer Protocol
 
@@ -269,21 +301,41 @@ GCM - Galois/Counter Mode
 
 GDPR - General Data Protection Regulation 
 
+GFS - Grandfather-Father-Son
+
 GPG - GNU Privacy Guard
 
 GPO - Group Policy Object 
 
 GPS - Global Positioning System
 
+GPT - GUID [Globally Unique Identifier] Partition Table
+
 GPU - Graphics Processing Unit 
 
 GRE - Generic Routing Encapsulation
+
+GSM - Global System for Mobile Communications
+
+GUI - Graphical User Interface
+
+GUID - Globally Unique Identifier
 
 _________________________________________________________________________
 
 HA - High Availability 
 
+HAL - Hardware Abstraction Layer
+
+HAV - Hardware-assisted Virtualization
+
+HCL - Hardware Compatibility List
+
+HDCP - High-bandwidth Digital Content Protection
+
 HDD - Hard Disk Drive
+
+HDMI - High-Definition Multimedia Interface
 
 HIDS - Host-based Intrusion Detection System
 
@@ -315,6 +367,10 @@ ICMP - Internet Control Message Protocol
 
 ICS - Industrial Control Systems
 
+ICR - Intelligent Character Recognition
+
+IDE - Integrated Drive Electronics
+
 IDEA - International Data Encryption Algorithm
 
 IDF - Intermediate Distribution Frame
@@ -329,13 +385,19 @@ IKE - Internet Key Exchange
 
 IM - Instant Messaging
 
-IMAP - Internet Message Access Protocol v4
+IMAP - Internet Message Access Protocol
+
+I/O - Input/Output
 
 IoC - Indicators of Compromise
+
+IOPS - Input/Output Operations Per Second
 
 IoT - Internet of Things
 
 IP - Internet Protocol
+
+IPS - In-plane Switching
 
 IPS - Intrusion Prevention System
 
@@ -343,7 +405,11 @@ IPSec - Internet Protocol Security
 
 IR - Incident Response
 
+IR - Infrared
+
 IRC - Internet Relay Chat
+
+IrDA - Infrared Data Association
 
 IRP - Incident Response Plan
 
@@ -359,13 +425,19 @@ ISSO - Information Systems Security Officer
 
 ITCP - IT Contingency Plan
 
+ITX - Information Technology eXtended
+
 IV - Initialization Vector
 
 _________________________________________________________________________
 
+KB - Knowledge Base
+
 KDC - Key Distribution Center
 
 KEK - Key Encryption Key
+
+KVM - Keyboard-Video-Mouse
 
 _________________________________________________________________________
 
@@ -373,9 +445,17 @@ L2TP - Layer 2 Tunneling Protocol
 
 LAN - Local Area Network
 
+LC - Lucent Connector
+
+LCD - Liquid Crystal Display
+
 LDAP - Lightweight Directory Access Protocol
 
+LDAPS - Lightweight Directory Access Protocol Secure
+
 LEAP - Lightweight Extensible Authentication Protocol
+
+LED - Light-emitting Diode
 
 _________________________________________________________________________
 
