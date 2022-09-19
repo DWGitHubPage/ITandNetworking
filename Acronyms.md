@@ -1,4 +1,4 @@
-Full list of acronyms.
+List of acronyms.
 
 _________________________________________________________________________
 
@@ -463,7 +463,7 @@ _________________________________________________________________________
 
 MaaS - Monitoring as a Service
 
-MAC - Media Access Control
+MAC - Media Access Control/Mandatory Access Control
 
 MAM - Mobile Application Management
 
@@ -475,7 +475,7 @@ MD5 - Message Digest 5
 
 MDF - Main Distribution Frame
 
-MDF - Mobile Device Management
+MDM - Mobile Device Management
 
 MFA - Multifactor Authentication
 
@@ -484,6 +484,8 @@ MFD - Multifunction Device
 MFP - Multifunction Printer
 
 ML - Machine Learning
+
+MMC - Microsoft Management Console
 
 MMS - Multimedia Message Service
 
@@ -497,7 +499,11 @@ MSA - Measurement Systems Analysis
 
 MS-CHAP - Microsoft Challenge-Handshake Authentication Protocol 
 
+MSDS - Material Safety Data Sheet
+
 MSP - Managed Service Provider
+
+MSRA - Microsoft Remote Assistance
 
 MSSP - Managed Security Service Provider 
 
@@ -509,6 +515,8 @@ MTTR - Mean Time to Repair
 
 MTU - Maximum Transmission Unit 
 
+MX - Mail Exchange
+
 _________________________________________________________________________
 
 NAC - Network Access Control
@@ -519,7 +527,13 @@ NAT - Network Address Translation
 
 NDA - Non-disclosure Agreement
 
+NetBIOS - Networked Basic Input/Output System
+
+NetBT - NetBIOS over TCP/IP [Transmission Control Protocol/Internet Protocol]
+
 NFC - Near-field Communication
+
+NFS - Network File System
 
 NFV - Network Function Virtualization 
 
@@ -543,11 +557,19 @@ NTLM - New Technology LAN Manager
 
 NTP - Network Time Protocol
 
+NVMe - Non-volatile Memory Express
+
 _________________________________________________________________________
+
+OCR - Optical Character Recognition
 
 OCSP - Online Certificate Status Protocol 
 
 OID - Object Identifier
+
+OLED - Organic Light-emitting Diode
+
+ONT - Optical Network Terminal
 
 OS - Operating System
 
@@ -581,6 +603,8 @@ PAM - Privileged Access Management
 
 PAM - Pluggable Authentication Modules
 
+PAN - Personal Area Network
+
 PAP - Password Authentication Protocol
 
 PAT - Port Address Translation
@@ -589,13 +613,21 @@ PBKDF2 - Password-based Key Derivation Function 2
 
 PBX - Private Branch Exchange
 
+PC - Personal Computer
+
 PCAP - Packet Capture
 
 PCI DSS - Payment Card Industry Data Security Standard 
 
+PCIe - Peripheral Component Interconnect Express
+
+PCL - Printer Command Language
+
 PDU - Power Distribution Unit
 
 PE - Portable Executable
+
+PE - Preinstallation Environment
 
 PEAP - Protected Extensible Authentication Protocol 
 
@@ -621,7 +653,11 @@ PKI - Public Key Infrastructure
 
 PoC - Proof of Concept
 
-POP - Post Office Protocol
+PoE - Power over Ethernet
+
+POP3 - Post Office Protocol 3
+
+POST - Power-on Self-Test
 
 POTS - Plain Old Telephone Service
 
@@ -629,11 +665,17 @@ PPP - Point-to-Point Protocol
 
 PPTP - Point-to-Point Tunneling Protocol
 
+PRL - Preferred Roaming List
+
 PSK - Preshared Key
+
+PSU - Power Supply Unit
 
 PTZ - Pan-Tilt-Zoom
 
 PUP - Potentially Unwanted Program
+
+PXE - Preboot Execution Environment
 
 _________________________________________________________________________
 
@@ -661,11 +703,23 @@ RC4 - Rivest Cipher version 4
 
 RCS - Rich Communication Services
 
+RDP - Remote Desktop Protocol
+
+RF - Radio Frequency
+
 RFC - Request for Comments
+
+RFI - Radio-Frequency Interference
 
 RFID - Radio Frequency Identification
 
 RIPEMD - RACE Integrity Primitives Evaluation Message Digest 
+
+RJ11 - Registered Jack Function 11
+
+RJ45 - Registered Jack Function 45
+
+RMM - Remote Monitoring and Management
 
 ROI - Return on Investment
 
@@ -689,11 +743,23 @@ SAE - Simultaneous Authentication of Equals
 
 SAML - Security Assertions Markup Language
 
+SAN - Storage Area Network
+
+SAS - Serial Attached SCSI [Small Computer System Interface]
+
+SATA - Serial Advanced Technology Attachment
+
+SC - Subscriber Connector
+
 SCADA - Supervisory Control and Data Acquisition 
 
 SCAP - Security Content Automation Protocol
 
 SCEP - Simple Certificate Enrollment Protocol
+
+SCP - Secure Copy Protection
+
+SCSI - Small Computer System Interface
 
 SDK - Software Development Kit
 
@@ -709,7 +775,7 @@ SDV - Software-defined Visibility SED Self-Encrypting Drives
 
 SEH - Structured Exception Handling 
 
-SFTP - SSH File Transfer Protocol
+SFTP - SSH File Transfer Protocol or Secure File Transfer Protocol
 
 SHA - Secure Hashing Algorithm
 
@@ -717,11 +783,15 @@ SIEM - Security Information and Event Management
 
 SIM - Subscriber Identity Module
 
+SIMM - Single Inline Memory Module
+
 SIP - Session Initiation Protocol
 
 SLA - Service-level Agreement
 
 SLE - Single Loss Expectancy
+
+S.M.A.R.T. - Self-monitoring Analysis and Reporting Technology
 
 SMB - Server Message Block
 
@@ -735,6 +805,8 @@ SMTPS - Simple Mail Transfer Protocol Secure
 
 SNMP - Simple Network Management Protocol
 
+SNTP - Simple Network Time Protocol
+
 SOAP - Simple Object Access Protocol
 
 SOAR - Security Orchestration, Automation, Response 
@@ -743,6 +815,10 @@ SoC - System on Chip
 
 SOC - Security Operations Center
 
+SODIMM - Small Outline Dual Inline Memory Module
+
+SOHO - Small Office/Home Office
+
 SPF - Sender Policy Framework
 
 SPIM - Spam over Instant Messaging
@@ -750,6 +826,8 @@ SPIM - Spam over Instant Messaging
 SQL - Structured Query Language
 
 SQLi - SQL Injection
+
+SRAM - Static Random-access Memory
 
 SRTP - Secure Real-time Transport Protocol
 
