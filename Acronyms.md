@@ -15,15 +15,21 @@ AC - Alternating Current
 
 ACL - Access Control List
 
+ACPI - Advanced Configuration Power Interface
+
 AD - Active Directory
 
 ADF - Automatic Document Feeder
+
+ADSL - Asymmetrical Digital Subscriber Line
 
 AES - Advanced Encryption Standards
 
 AES256 - Advanced Encryption Standards 256bit
 
 AH - Authentication Header
+
+AHCI - Advanced Host Controller Interface
 
 AI - Artificial Intelligence
 
@@ -41,6 +47,8 @@ APIPA - Automatic Private Internet Protocol Address
 
 APK - Android Package
 
+APM - Advanced Power Management
+
 APT - Advanced Persistent Threat
 
 ARO - Annualized Rate of Occurrence
@@ -51,7 +59,11 @@ ASLR - Address Space Layout Randomization
 
 ASP - Active Server Pages
 
+ASR - Automated System Recovery
+
 ATA - Advanced Technoloogy Attachment
+
+ATAPI - Advanced Technology Attachment Packet Interface
 
 ATM - Asynchronous Transfer Mode
 
@@ -61,6 +73,8 @@ ATX - Advanced Technology Extended
 
 AUP - Acceptable Use Policy
 
+A/V - Audio Video
+
 AV - Antivirus
 
 _________________________________________________________________________
@@ -69,11 +83,17 @@ BASH - Bourne Again Shell
 
 BCP - Business Continuity Planning
 
+BD-R - Blu-ray Disc Recordable
+
+BD-RE - Blu-ray Disc Rewritable
+
 BGP - Border Gateway Protocol 
  
 BIA - Business Impact Analysis
 
 BIOS - Basic Input/Output System 
+
+BNC - Bayonet-Neill-Concelman
 
 BPA - Business Partnership Agreement 
 
@@ -111,11 +131,21 @@ CDFS - Compact Disc File System
 
 CDMA - Code-Division Multiple Access
 
+CD-ROM - Compact Disc-Read-Only Memory
+
+CD-RW - Compact Disc-Rewritable
+
 CERT - Computer Emergency Response Team
 
 CFB - Cipher Feedback
 
+CFS - Central File System, Common File System, or Command File System
+
+CGA - Computer Graphics and Applications
+
 CHAP - Challenge-Handshake Authentication Protocol
+
+CIDR - Classless Inter-Domain Routing
 
 CIFS - Common Internet File System
 
@@ -133,6 +163,10 @@ CMS - Content Management System
 
 CN - Common Name
 
+CNR - Communications and Networking Riser
+
+COMx - Communication port (x=port number)
+
 COOP - Continuity of Operations Planning
 
 COPE - Corporate-owned Personally Enabled
@@ -144,6 +178,8 @@ CPU - Central Processing Unit
 CRC - Cyclic Redundancy Check
 
 CRL - Certificate Revocation List
+
+CRT - Cathode-Ray Tube
 
 CSA - Cloud Security Alliance
 
@@ -171,9 +207,19 @@ CYOD - Choose Your Own Device
 
 _________________________________________________________________________
 
+DaaS - Data as a Service
+
+DaaS - Desktop as a Service
+
 DAC - Discretionary Access Control
 
+DB-9 - Serial Communications D-Shell Connector, 9 pins
+
+DB-25 - Serial Communications D-Shell Connector, 25 pins
+
 DBA - Database Administrator
+
+DBaaS - Database as a Service
 
 DC - Direct Current
 
@@ -181,11 +227,15 @@ DDoS - Distributed Denial-of-Service
 
 DDR - Double Data Rate
 
+DDR RAM - Double Data Rate Random Access Memory
+
 DEP - Data Execution Prevention
 
 DER - Distinguished Encoding Rules
 
 DES - Data Encryption Standard
+
+DFS - Distributed File System
 
 DHCP - Dynamic Host Configuration Protocol
 
@@ -193,19 +243,25 @@ DHE - Diffie-Hellman Ephemeral
 
 DIMM - Dual Inline Memory Module
 
+DIN - Deutsche Industrie Norm
+
 DKIM - Domain Keys Identified Mail
 
 DLL - Dynamic-link Library
 
 DLP - Data Loss Prevention
 
+DLT - Digital Linear Tape
+
 DMA - Direct Memory Access
 
 DMARC - Domain Message Authentication Reporting and Conformance
 
+DMZ - Demilitarized Zone
+
 DNAT - Destination Network Address Transaction
 
-DNS - Domain Name System
+DNS - Domain Name System or Domain Name Server
 
 DNSSEC - Domain Name System Security Extensions
 
@@ -222,6 +278,16 @@ DRP - Disaster Recovery Plan
 DSA - Digital Signature Algorithm 
 
 DSL - Digital Subscriber Line
+
+DVD - Digital Versatile Disc
+
+DVD-R - Digital Versatile Disc-Recordable
+
+DVD-RAM - Digital Versatile Disc-Random Access Memory
+
+DVD-ROM - Digital Versatile Disc-Read Only Memory
+
+DVD-RW - Digital Versatile Disc-Rewritable
 
 DVI - Digital Visual Interface
 
@@ -243,15 +309,27 @@ ECDSA - Elliptic-curve Digital Signature Algorithm
 
 EDR - Endpoint Detection and Response
 
+EEPROM - Electrically Erasable Programmable ICMP Read-Only Memory
+
 EFS - Encrypted File System or Encrypting File System
+
+EIDE - Enhanced Integrated Drive Electronics
 
 EIP - Extended Instruction Pointer 
 
 EMI - Electromagnetic Interference
 
+EMP - Electromagnetic Pulse
+
+EPROM - Erasable Programmable Read-Only Memory
+
 EOL - End of Life
 
 EOS - End of Service 
+
+EPP - Enhanced Parallel Port
+
+ERD - Emergency Repair Disk
 
 ERP - Enterprise Resource Planning 
 
