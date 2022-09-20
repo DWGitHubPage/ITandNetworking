@@ -99,6 +99,8 @@ BPA - Business Partnership Agreement
 
 BPDU - Bridge Protocol Data Unit
 
+BSD - Berkeley Software Distribution
+
 BSSID - Basic Service Set Identifier 
 
 BSOD - Blue Screen of Death
