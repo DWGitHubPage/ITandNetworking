@@ -131,6 +131,8 @@ CDFS - Compact Disc File System
 
 CDMA - Code-Division Multiple Access
 
+CDP - Customer Data Platform
+
 CD-ROM - Compact Disc-Read-Only Memory
 
 CD-RW - Compact Disc-Rewritable
