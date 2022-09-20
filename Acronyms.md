@@ -361,11 +361,17 @@ FAT16 - 16-bit File Allocation Table
 
 FAT32 - 32-bit File Allocation Table
 
+FDD - Floppy Disk Drive
+
 FDE - Full Disk Encryption
 
 FIM - File Integrity Monitoring 
 
 FPGA - Field Programmable Gate Array
+
+FPM - Fast Page Mode
+
+FQDN - Fully Qualified Domain Name
 
 FRR - False Rejection Rate 
 
@@ -373,11 +379,15 @@ FSB - Front-Side Bus
 
 FTP - File Transfer Protocol
 
-FTPS - Secured File Transfer Protocol 
+FTPS - File Transfer Protocol Secure 
 
 _________________________________________________________________________
 
 GCM - Galois/Counter Mode
+
+GDDR - Graphics Double Data Rate
+
+GDI - Graphics Device Interface
 
 GDPR - General Data Protection Regulation 
 
@@ -425,11 +435,15 @@ HMAC - Hash-based Message Authentication Code
 
 HOTP - HMAC-based One-time Password
 
+HPFS - High Performance File System
+
 HSM - Hardware Security Module
 
 HSMaaS - Hardware Security Module as a Service
 
 HTML - Hypertext Markup Language
+
+HTPC - Home Theater PC (Personal Computer)
 
 HTTP - Hypertext Transfer Protocol
 
@@ -461,11 +475,17 @@ IDS - Intrusion Detection System
 
 IEEE - Institute of Electrical and Electronics Engineers
 
+IIS - Internet Information Services
+
 IKE - Internet Key Exchange
 
 IM - Instant Messaging
 
 IMAP - Internet Message Access Protocol
+
+IMEI - International Mobile Equipment Identity
+
+IMSI - International Mobile Subscriber Identity
 
 I/O - Input/Output
 
@@ -476,6 +496,10 @@ IOPS - Input/Output Operations Per Second
 IoT - Internet of Things
 
 IP - Internet Protocol
+
+IPConfig - Internet Protocol Configuration
+
+IPP - Internet Printing Protocol
 
 IPS - In-plane Switching
 
@@ -493,7 +517,13 @@ IrDA - Infrared Data Association
 
 IRP - Incident Response Plan
 
+IRQ - Interrupt Request
+
+ISA - Industry Standard Architecture
+
 ISA - Interconnection Security Agreement
+
+ISDN - Integrated Services Digital Network
 
 ISFW - Internal Segmentation Firewall
 
@@ -511,11 +541,17 @@ IV - Initialization Vector
 
 _________________________________________________________________________
 
+JBOD - Just a Bunch of Disks
+
+_________________________________________________________________________
+
 KB - Knowledge Base
 
 KDC - Key Distribution Center
 
 KEK - Key Encryption Key
+
+KVM - Kernel-based Virtual Machine
 
 KVM - Keyboard-Video-Mouse
 
@@ -524,6 +560,8 @@ _________________________________________________________________________
 L2TP - Layer 2 Tunneling Protocol
 
 LAN - Local Area Network
+
+LBA - Logical Block Addressing
 
 LC - Lucent Connector
 
@@ -537,6 +575,12 @@ LEAP - Lightweight Extensible Authentication Protocol
 
 LED - Light-emitting Diode
 
+LPD/LPR - Line Printer Daemon/Line Printer Remote
+
+LPT - Line Printer Terminal
+
+LVD - Low Voltage Differential
+
 _________________________________________________________________________
 
 MaaS - Monitoring as a Service
@@ -547,7 +591,15 @@ MAM - Mobile Application Management
 
 MAN - Metropolitan Area Network
 
+MAPI - Messaging Application Programming Interface
+
+mATX - Micro Advanced Technology Extended
+
+MAU - Media Access Unit/Media Attachment Unit
+
 MBR - Master Boot Record
+
+MBSA - Microsoft Baseline Security Analyzer
 
 MD5 - Message Digest 5
 
@@ -561,6 +613,14 @@ MFD - Multifunction Device
 
 MFP - Multifunction Printer
 
+MicroDIMM - Micro Dual Inline Memory Module
+
+MIDI - Musical Instrument Digital Interface
+
+MIME - Multipurpose Internet Mail Extension
+
+MIMO - Multiple Input Multiple Output
+
 ML - Machine Learning
 
 MMC - Microsoft Management Console
@@ -571,11 +631,19 @@ MOA - Memorandum of Agreement
 
 MOU - Memorandum of Understanding
 
+MP3 - Moving Picture Experts Group Layer 3 Audio
+
+MP4 - Moving Picture Experts Group Layer 4
+
+MPEG - Moving Picture Experts Group
+
 MPLS - Multiprotocol Label Switching 
 
 MSA - Measurement Systems Analysis
 
 MS-CHAP - Microsoft Challenge-Handshake Authentication Protocol 
+
+MSConfig - Microsoft Configuration
 
 MSDS - Material Safety Data Sheet
 
@@ -587,15 +655,21 @@ MSSP - Managed Security Service Provider
 
 MTBF - Mean Time Between Failures
 
+MT-RJ - Mechanical Transfer Registered Jack
+
 MTTF - Mean Time to Failure
 
 MTTR - Mean Time to Repair
 
 MTU - Maximum Transmission Unit 
 
+MUI - Multilingual User Interface
+
 MX - Mail Exchange
 
 _________________________________________________________________________
+
+NaaS - Network as a Service
 
 NAC - Network Access Control
 
@@ -604,6 +678,8 @@ NAS - Network-attached Storage
 NAT - Network Address Translation
 
 NDA - Non-disclosure Agreement
+
+NetBEUI - Networked Basic Input/Output System Extended User Interface
 
 NetBIOS - Networked Basic Input/Output System
 
@@ -621,19 +697,31 @@ NG-SWG - Next-generation Secure Web Gateway
 
 NIC - Network Interface Card
 
+NICd - Nickel Cadmium
+
 NIDS - Network-based Intrusion Detection System 
+
+NiMH - Nickel Metal Hydride
 
 NIPS - Network-based Intrusion Prevention System 
 
 NIST - National Institute of Standards & Technology 
 
+NLX - New Low-profile Extended
+
+NNTP - Network News Transfer Protocol
+
 NOC - Network Operations Center
 
 NTFS - New Technology File System 
 
+NTLDR - New Technology Loader
+
 NTLM - New Technology LAN Manager 
 
 NTP - Network Time Protocol
+
+NTSC - National Transmission Standards Committee
 
 NVMe - Non-volatile Memory Express
 
