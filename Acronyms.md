@@ -805,6 +805,8 @@ PCIX - Peripheral Component Interconnect Extended
 
 PCL - Printer Command Language
 
+PCMCIA - Personal Computer Memory Card International Association
+
 PDU - Power Distribution Unit
 
 PE - Portable Executable
@@ -819,7 +821,9 @@ PEM - Privacy Enhanced Mail
 
 PFS - Perfect Forward Secrecy
 
-PGP - Pretty Good Privacy
+PGA - Pin Grid Array
+
+PGP - Pretty Good Protection (or Privacy)
 
 PHI - Personal Health Information
 
@@ -833,11 +837,15 @@ PKCS - Public Key Cryptography Standards
 
 PKI - Public Key Infrastructure
 
+PnP - Plug and Play
+
 PoC - Proof of Concept
 
 PoE - Power over Ethernet
 
 POP3 - Post Office Protocol 3
+
+PoS - Point of Sale
 
 POST - Power-on Self-Test
 
@@ -847,15 +855,29 @@ PPP - Point-to-Point Protocol
 
 PPTP - Point-to-Point Tunneling Protocol
 
+PRI - Primary Rate Interface
+
 PRL - Preferred Roaming List
 
+PROM - Programmable Read-Only Memory
+
+PS/2 - Personal System/2 connector
+
 PSK - Preshared Key
+
+PSTN - Public Switched Telephone Network
 
 PSU - Power Supply Unit
 
 PTZ - Pan-Tilt-Zoom
 
 PUP - Potentially Unwanted Program
+
+PVA - Patterned Vertical Alignment
+
+PVC - Permanent Virtual Circuit
+
+PVC - Polyvinyl Chloride
 
 PXE - Preboot Execution Environment
 
@@ -895,15 +917,27 @@ RFI - Radio-Frequency Interference
 
 RFID - Radio Frequency Identification
 
+RGB - Red Green Blue
+
+RIP - Routing Information Protocol
+
 RIPEMD - RACE Integrity Primitives Evaluation Message Digest 
 
-RJ11 - Registered Jack Function 11
+RIS - Remote Installation Service
 
-RJ45 - Registered Jack Function 45
+RISC - Reduced Instruction Set Computer
+
+RJ-11 - Registered Jack Function 11
+
+RJ-45 - Registered Jack Function 45
+
+RMA - Returned Materials Authorization
 
 RMM - Remote Monitoring and Management
 
 ROI - Return on Investment
+
+ROM - Read Only Memory
 
 RPO - Recovery Point Objective
 
@@ -943,6 +977,10 @@ SCP - Secure Copy Protection
 
 SCSI - Small Computer System Interface
 
+SCSI ID - Small Computer System Interface Identifier
+
+SD Card - Secure Digital Card
+
 SDK - Software Development Kit
 
 SDLC - Software Development Life Cycle
@@ -955,7 +993,13 @@ SDP - Service Delivery Platform
 
 SDV - Software-defined Visibility SED Self-Encrypting Drives
 
+SEC - Single Edge Connector
+
 SEH - Structured Exception Handling 
+
+SFC - System File Checker
+
+SFF - Small Form Factor
 
 SFTP - SSH File Transfer Protocol or Secure File Transfer Protocol
 
@@ -972,6 +1016,8 @@ SIP - Session Initiation Protocol
 SLA - Service-level Agreement
 
 SLE - Single Loss Expectancy
+
+SLI - Scalable Link Interface or System Level Integration or Scanline Interleave Mode
 
 S.M.A.R.T. - Self-monitoring Analysis and Reporting Technology
 
@@ -997,11 +1043,17 @@ SoC - System on Chip
 
 SOC - Security Operations Center
 
-SODIMM - Small Outline Dual Inline Memory Module
+SoDIMM - Small Outline Dual Inline Memory Module
 
 SOHO - Small Office/Home Office
 
+SP - Service Pack
+
+SPDIF - Sony-Philips Digital Interface Format
+
 SPF - Sender Policy Framework
+
+SPGA - Staggered Pin Grid Array
 
 SPIM - Spam over Instant Messaging
 
@@ -1033,13 +1085,19 @@ STP - Shielded Twisted Pair
 
 SWG - Secure Web Gateway
 
+SXGA - Super Extended Graphics Array
+
 _________________________________________________________________________
+
+TACACS - Terminal Access Controller Access-Control System
 
 TACACS+ Terminal Access Controller Access Control System 
 
 TAXII - Trusted Automated eXchange of Intelligence Information
 
 TCP/IP - Transmission Control Protocol/Internet Protocol 
+
+TDR - Time Domain Reflectometer
 
 TFTP - Trivial File Transfer Protocol
 
@@ -1065,6 +1123,10 @@ UAC - User Account Control
 
 UAT - User Acceptance Testing
 
+UDF - Universal Data Format or Universal Disk Format
+
+UDF - User Defined Functions
+
 UDP - User Datagram Protocol
 
 UEBA - User and Entity Behavior Analytics
@@ -1087,6 +1149,8 @@ USB - Universal Serial Bus
 
 USB OTG - USB On-The-Go
 
+USMT - User State Migration Tool
+
 UTM - Unified Threat Management
 
 UTP - Unshielded Twisted Pair
@@ -1097,9 +1161,15 @@ VA - Vertical Alignment
 
 VBA - Visual Basic for Applications
 
+VDC - Volts DC (Direct Current)
+
 VDE - Virtual Desktop Environment
 
 VDI - Virtual Desktop Infrastructure
+
+VESA - Video Electronics Standards Association
+
+VFAT - Virtual File Allocation Table
 
 VGA - Video Graphics Array
 
@@ -1133,6 +1203,10 @@ WEP - Wired Equivalent Privacy
 
 WIDS - Wireless Intrusion Detection System
 
+WIFI - Wireless Fidelity
+
+WINS - Windows Internet Name Service
+
 WIPS - Wireless Intrusion Prevention System
 
 WISP - Wireless Internet Service Provider
@@ -1145,13 +1219,19 @@ WORM - Write Once Read Many
 
 WPA - WiFi Protected Access
 
+WPA2 - Wifi Protected Access 2
+
 WPS - WiFi Protected Setup
+
+WUXGA - Wide Ultra Extended Graphics Array
 
 WWAN - Wireless Wide Area Network
 
 _________________________________________________________________________
 
 XaaS - Anything as a Service
+
+XGA - Extended Graphics Array
 
 XML - Extensible Markup Language
 
@@ -1160,3 +1240,9 @@ XOR - Exclusive OR
 XSFR - Cross-site Request Forgery
 
 XSS - Cross-site Scripting
+
+_________________________________________________________________________
+
+ZIF - Zero-Insertion-Force
+
+ZIP - Zigzag Inline Package
