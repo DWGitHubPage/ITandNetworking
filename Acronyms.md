@@ -9,6 +9,8 @@ _________________________________________________________________________
 
 AAA - Authentication, Authorization, and Accounting
 
+AAAA - Authentication, Authorization, Accounting, Auditing
+
 ABAC - Attribute-based Access Control
 
 AC - Alternating Current
