@@ -731,6 +731,8 @@ OCR - Optical Character Recognition
 
 OCSP - Online Certificate Status Protocol 
 
+OEM - Original Equipment Manufacturer
+
 OID - Object Identifier
 
 OLED - Organic Light-emitting Diode
@@ -765,6 +767,8 @@ PaaS - Platform as a Service
 
 PAC - Proxy Auto Configuration
 
+PAL - Phase Alternating Line
+
 PAM - Privileged Access Management
 
 PAM - Pluggable Authentication Modules
@@ -783,9 +787,15 @@ PC - Personal Computer
 
 PCAP - Packet Capture
 
+PCI - Payment Card Industry
+
+PCI - Peripheral Component Interconnect
+
 PCI DSS - Payment Card Industry Data Security Standard 
 
 PCIe - Peripheral Component Interconnect Express
+
+PCIX - Peripheral Component Interconnect Extended
 
 PCL - Printer Command Language
 
