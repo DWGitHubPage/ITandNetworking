@@ -181,6 +181,8 @@ CRC - Cyclic Redundancy Check
 
 CRL - Certificate Revocation List
 
+CRM - Customer Relationship Management
+
 CRT - Cathode-Ray Tube
 
 CSA - Cloud Security Alliance
