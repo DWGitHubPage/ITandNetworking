@@ -1023,6 +1023,8 @@ SSL - Secure Sockets Layer
 
 SSO - Single Sign-on
 
+SSPM - SaaS Security Posture Management
+
 ST - Straight Tip
 
 STIX - Structured Threat Information eXpression
