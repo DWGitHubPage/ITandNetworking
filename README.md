@@ -49,15 +49,6 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________
 
 
-## DNS
-
-[DNS Record Types](https://www.nslookup.io/learning/dns-record-types/)
-
-[Subnet Mask Cheat Sheet](https://dnsmadeeasy.com/support/subnet/)
-
-_________________________________________________________________________________________________________________________________
-
-
 ## Networking Books:
 
 [Computer Networks (Fifth Edition) by Andrew S. Tanenbaum](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf)
@@ -88,8 +79,10 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________
 
 
-## Subnet Calculator
+## Subnet Calculators and Cheat Sheet
 
 [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 
 [Online IP Subnet Calculator](https://www.subnet-calculator.com/subnet.php?net_class=C)
+
+[Subnet Mask Cheat Sheet](https://dnsmadeeasy.com/support/subnet/)
