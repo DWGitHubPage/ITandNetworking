@@ -10,7 +10,7 @@
 _________________________________________________________________________________________________________________________________
 
 
-## Knowledge Base/Documentation
+## Documentation
 
 [Android Help](https://support.google.com/android/#topic=7313011)
 
