@@ -43,6 +43,10 @@ ALE - Annualized Loss Expectancy
 
 AP - Access Point
 
+APC - Angled Physical Contact
+
+APC - Angle-Polished Connector
+
 APFS - Apple File System
 
 API - Application Programming Interface
@@ -97,7 +101,7 @@ BIA - Business Impact Analysis
 
 BIOS - Basic Input/Output System 
 
-BNC - Bayonet-Neill-Concelman
+BNC - British Naval Connector/Bayonet-Neill-Concelman
 
 BPA - Business Partnership Agreement 
 
@@ -116,6 +120,10 @@ _________________________________________________________________________
 CA - Certificate Authority
 
 CAD - Computer-aided Design
+
+CAM - Content Addressable Memory (table)
+
+CAN - Campus/Corporate Area Network
 
 CAPTCHA - Completely Automated Public Turing Test to Tell Computers and Humans Apart
 
@@ -153,6 +161,8 @@ CGA - Computer Graphics and Applications
 
 CHAP - Challenge-Handshake Authentication Protocol
 
+CIA - Confidentiality, Integrity, and Availability
+
 CIDR - Classless Inter-Domain Routing
 
 CIFS - Common Internet File System
@@ -162,6 +172,10 @@ CIO - Chief Information Officer
 CIRT - Computer Incident Response Team
 
 CIS - Center for Internet Security
+
+CLI - Command-Line Interface
+
+CNAME - Canonical Name
 
 CMD - Command Prompt
 
@@ -197,6 +211,10 @@ CSIRT - Computer Security Incident Response Team
 
 CSO - Chief Security Officer
 
+CSMA/CA - Carrier-Sense Multiple Access with Collision Avoidance
+
+CSMA/CD - Carrier-Sense Multiple Access with Collision Detection
+
 CSP - Cloud Service Provider
 
 CSR - Certificate Signing Request
@@ -213,6 +231,8 @@ CVE - Common Vulnerabilities and Exposures
 
 CVSS - Common Vulnerability Scoring System
 
+CWDM - Coarse Wavelength Division Multiplexing
+
 CYOD - Choose Your Own Device
 
 _________________________________________________________________________
@@ -222,6 +242,8 @@ DaaS - Data as a Service
 DaaS - Desktop as a Service
 
 DAC - Discretionary Access Control
+
+dB - Decibel
 
 DB-9 - Serial Communications D-Shell Connector, 9 pins
 
@@ -289,6 +311,8 @@ DSA - Digital Signature Algorithm
 
 DSL - Digital Subscriber Line
 
+DSU - Data Service Unit
+
 DVD - Digital Versatile Disc
 
 DVD-R - Digital Versatile Disc-Recordable
@@ -302,6 +326,8 @@ DVD-RW - Digital Versatile Disc-Rewritable
 DVI - Digital Visual Interface
 
 DVI-D - Digital Visual Interface-Digital
+
+DWDM - Dense Wavelength Division Multiplexing
 
 _________________________________________________________________________
 
