@@ -37,6 +37,8 @@ AI - Artificial Intelligence
 
 AIS - Automated Indicator Sharing
 
+AiTM - Adversary-in-the-Middle
+
 ALE - Annualized Loss Expectancy
 
 AP - Access Point
