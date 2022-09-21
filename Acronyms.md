@@ -349,9 +349,15 @@ EEPROM - Electrically Erasable Programmable ICMP Read-Only Memory
 
 EFS - Encrypted File System or Encrypting File System
 
+EIA - Electronic Industries Association
+
 EIDE - Enhanced Integrated Drive Electronics
 
+EIGRP - Enhanced Interior Gateway Routing Protocol
+
 EIP - Extended Instruction Pointer 
+
+EIRP - Effective Isotropic Radiated Power
 
 EMI - Electromagnetic Interference
 
@@ -379,6 +385,8 @@ ESP - Encapsulating Security Payload
 
 ESSID - Extended Service Set Identifier
 
+EUI - Extended Unique Identifier
+
 EULA - End-User License Agreement
 
 exFAT Extensible File Allocation Table 
@@ -397,9 +405,13 @@ FAT16 - 16-bit File Allocation Table
 
 FAT32 - 32-bit File Allocation Table
 
+FCoE - Fibre Channel over Ethernet
+
 FDD - Floppy Disk Drive
 
 FDE - Full Disk Encryption
+
+FHRP - First Hop Redundancy Protocol
 
 FIM - File Integrity Monitoring 
 
@@ -418,6 +430,8 @@ FTP - File Transfer Protocol
 FTPS - File Transfer Protocol Secure 
 
 _________________________________________________________________________
+
+GBIC - Gigabit Interface Converter
 
 GCM - Galois/Counter Mode
 
@@ -511,6 +525,8 @@ IDS - Intrusion Detection System
 
 IEEE - Institute of Electrical and Electronics Engineers
 
+IGMP - Internet Group Management Protocol
+
 IIS - Internet Information Services
 
 IKE - Internet Key Exchange
@@ -543,6 +559,10 @@ IPS - Intrusion Prevention System
 
 IPSec - Internet Protocol Security
 
+IPv4 - Internet Protocol version 4
+
+IPv6 - Internet Protocol version 6
+
 IR - Incident Response
 
 IR - Infrared
@@ -558,6 +578,8 @@ IRQ - Interrupt Request
 ISA - Industry Standard Architecture
 
 ISA - Interconnection Security Agreement
+
+iSCSI - Internet Small Computer Systems Interface
 
 ISDN - Integrated Services Digital Network
 
@@ -595,6 +617,8 @@ _________________________________________________________________________
 
 L2TP - Layer 2 Tunneling Protocol
 
+LACP - Link Aggregation Control Protocol
+
 LAN - Local Area Network
 
 LBA - Logical Block Addressing
@@ -614,6 +638,8 @@ LED - Light-emitting Diode
 LPD/LPR - Line Printer Daemon/Line Printer Remote
 
 LPT - Line Printer Terminal
+
+LTE - Long-Term Evolution
 
 LVD - Low Voltage Differential
 
@@ -641,6 +667,8 @@ MD5 - Message Digest 5
 
 MDF - Main Distribution Frame
 
+MDIX - Medium Dependent Interface Crossover
+
 MDM - Mobile Device Management
 
 MFA - Multifactor Authentication
@@ -648,6 +676,10 @@ MFA - Multifactor Authentication
 MFD - Multifunction Device
 
 MFP - Multifunction Printer
+
+mGRE - Multipoint Generic Routing Encapsulation
+
+MIB - Management Information Base
 
 MicroDIMM - Micro Dual Inline Memory Module
 
@@ -689,7 +721,7 @@ MSRA - Microsoft Remote Assistance
 
 MSSP - Managed Security Service Provider 
 
-MTBF - Mean Time Between Failures
+MTBF - Mean Time Between Failure
 
 MT-RJ - Mechanical Transfer Registered Jack
 
@@ -698,6 +730,8 @@ MTTF - Mean Time to Failure
 MTTR - Mean Time to Repair
 
 MTU - Maximum Transmission Unit 
+
+MU-MIMO - Multiuser - Multiple Input, Multiple Output
 
 MUI - Multilingual User Interface
 
@@ -749,6 +783,8 @@ NNTP - Network News Transfer Protocol
 
 NOC - Network Operations Center
 
+NS - Name Server
+
 NTFS - New Technology File System 
 
 NTLDR - New Technology Loader
@@ -786,6 +822,8 @@ OSPF - Open Shortest Path First
 OT - Operational Technology
 
 OTA - Over-The-Air
+
+OTDR - Optical Time Domain Reflectometer
 
 OTG - On-The-Go
 
@@ -873,6 +911,8 @@ PoC - Proof of Concept
 
 PoE - Power over Ethernet
 
+POP - Post Office Protocol
+
 POP3 - Post Office Protocol 3
 
 PoS - Point of Sale
@@ -893,11 +933,13 @@ PROM - Programmable Read-Only Memory
 
 PS/2 - Personal System/2 connector
 
-PSK - Preshared Key
+PSK - Pre-Shared Key
 
 PSTN - Public Switched Telephone Network
 
 PSU - Power Supply Unit
+
+PTR - Pointer Record
 
 PTZ - Pan-Tilt-Zoom
 
@@ -941,11 +983,13 @@ RDP - Remote Desktop Protocol
 
 RF - Radio Frequency
 
-RFC - Request for Comments
+RFC - Request for Comment
 
 RFI - Radio-Frequency Interference
 
 RFID - Radio Frequency Identification
+
+RG - Radio Guide
 
 RGB - Red Green Blue
 
@@ -956,6 +1000,8 @@ RIPEMD - RACE Integrity Primitives Evaluation Message Digest
 RIS - Remote Installation Service
 
 RISC - Reduced Instruction Set Computer
+
+RJ - Registered Jack
 
 RJ-11 - Registered Jack Function 11
 
@@ -973,6 +1019,8 @@ RPO - Recovery Point Objective
 
 RSA - Rivest, Shamir, & Adleman
 
+RSSI - Received Signal Strength Indication
+
 RTBH - Remotely Triggered Black Hole
 
 RTO - Recovery Time Objective
@@ -980,6 +1028,8 @@ RTO - Recovery Time Objective
 RTOS - Real-time Operating System
 
 RTP - Real-time Transport Protocol
+
+RTSP - Real Time Streaming Protocol
 
 _________________________________________________________________________
 
@@ -995,7 +1045,7 @@ SAS - Serial Attached SCSI [Small Computer System Interface]
 
 SATA - Serial Advanced Technology Attachment
 
-SC - Subscriber Connector
+SC - Standard Connector/Subscriber Connector
 
 SCADA - Supervisory Control and Data Acquisition 
 
@@ -1023,6 +1073,8 @@ SDP - Service Delivery Platform
 
 SDV - Software-defined Visibility SED Self-Encrypting Drives
 
+SDWAN - Software-Defined WAN
+
 SEC - Single Edge Connector
 
 SEH - Structured Exception Handling 
@@ -1030,6 +1082,8 @@ SEH - Structured Exception Handling
 SFC - System File Checker
 
 SFF - Small Form Factor
+
+SFP - Small Form-factor Pluggable
 
 SFTP - SSH File Transfer Protocol or Secure File Transfer Protocol
 
@@ -1044,6 +1098,8 @@ SIMM - Single Inline Memory Module
 SIP - Session Initiation Protocol
 
 SLA - Service-level Agreement
+
+SLAAC - Stateless Address Auto-Configuration
 
 SLE - Single Loss Expectancy
 
@@ -1064,6 +1120,8 @@ SMTPS - Simple Mail Transfer Protocol Secure
 SNMP - Simple Network Management Protocol
 
 SNTP - Simple Network Time Protocol
+
+SOA - Start of Authority
 
 SOAP - Simple Object Access Protocol
 
@@ -1095,6 +1153,8 @@ SRAM - Static Random-access Memory
 
 SRTP - Secure Real-time Transport Protocol
 
+SRV - Service Record
+
 SSD - Solid State Drive
 
 SSH - Secure Shell
@@ -1107,15 +1167,19 @@ SSO - Single Sign-on
 
 SSPM - SaaS Security Posture Management
 
-ST - Straight Tip
+ST - Straight Tip or Snap Twist
 
 STIX - Structured Threat Information eXpression
 
 STP - Shielded Twisted Pair
 
+STP - Spanning Tree Protocol
+
 SWG - Secure Web Gateway
 
 SXGA - Super Extended Graphics Array
+
+SYSLOG - System Log
 
 _________________________________________________________________________
 
@@ -1133,6 +1197,8 @@ TFTP - Trivial File Transfer Protocol
 
 TGT - Ticket Granting Ticket
 
+TIA/EIA - Telecommunications Industry Association/Electronic Industries Alliance
+
 TKIP - Temporal Key Integrity Protocol
 
 TLS - Transport Layer Security
@@ -1145,7 +1211,11 @@ TPM - Trusted Platform Module
 
 TSIG - Transaction Signature
 
+TTL - Time to Live
+
 TTP - Tactics, Techniques, and Procedures
+
+TX/RX - Transmit and Receive
 
 _________________________________________________________________________
 
@@ -1166,6 +1236,8 @@ UEFI - Unified Extensible Firmware Interface
 UEM - Unified Endpoint Management
 
 UNC - Universal Naming Convention
+
+UPC - Ultra-Physical Contact or Connector
 
 UPnP - Universal Plug and Play
 
@@ -1203,6 +1275,8 @@ VFAT - Virtual File Allocation Table
 
 VGA - Video Graphics Array
 
+VIP - Virtual IP
+
 VLAN - Virtual Local Area Network
 
 VLSM - Variable-length Subnet Masking
@@ -1211,6 +1285,8 @@ VM - Virtual Machine
 
 VNC - Virtual Network Computer
 
+vNIC - virtual Network Interface Card
+
 VoIP - Voice over IP
 
 VPC - Virtual Private Cloud
@@ -1218,6 +1294,8 @@ VPC - Virtual Private Cloud
 VPN - Virtual Private Network
 
 VRAM - Video Random-access Memory
+
+VRRP - Virtual Router Redundancy Protocol
 
 VTC - Video Teleconferencing
 
@@ -1228,6 +1306,8 @@ WAF - Web Application Firewall
 WAN - Wide Area Network
 
 WAP - Wireless Access Point
+
+WDM - Wavelength Division Multiplexing
 
 WEP - Wired Equivalent Privacy
 
