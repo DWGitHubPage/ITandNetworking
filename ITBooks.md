@@ -1,5 +1,11 @@
 Online IT Books
 
+- Networks
+
+[Computer Networks (Fifth Edition) by Andrew S. Tanenbaum](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf)
+
+[High Performance Browser Networking by Ilya Grigorik](https://hpbn.co)
+
 
 - Social Engineering 
 
@@ -10,4 +16,4 @@ Online IT Books
 
 - Fiction
 
-[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://itrevolution.com/wp-content/uploads/files/PhoenixProjectExcerpt.pdf) by Gene Kim, Kevin Behr, and George Spafford 
+[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://itrevolution.com/wp-content/uploads/files/PhoenixProjectExcerpt.pdf) by Gene Kim, Kevin Behr, and George Spafford
