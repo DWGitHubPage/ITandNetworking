@@ -1093,6 +1093,8 @@ SEC - Single Edge Connector
 
 SEH - Structured Exception Handling 
 
+SER - Search Engine Ranking
+
 SFC - System File Checker
 
 SFF - Small Form Factor
