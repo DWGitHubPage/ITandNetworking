@@ -13,13 +13,13 @@ The cartridges are most likely refilled cartridges.<br/>
 Replace any non-HP or refilled cartridges with genuine HP cartridges.
 ___________________________________________________________________________________________
 
-99.1088 NOT HP Genuine cartridge.
-You are not using a genuine HP cartridge.
+99.1088 NOT HP Genuine cartridge.<br/>
+You are not using a genuine HP cartridge.<br/>
 Replace any non-HP or refilled cartridges with genuine HP cartridges.
 ___________________________________________________________________________________________
 
-99.108c/10.400X Genuine HP cartridge
-You are using a genuine HP cartridge.
+99.108c/10.400X Genuine HP cartridge.<br/>
+You are using a genuine HP cartridge.<br/>
 This is informational only, and no action needs to be taken.
 ___________________________________________________________________________________________
 
