@@ -33,7 +33,8 @@ ________________________________________________________________________________
 10.000X Supply memory error or 10.100X Supply memory error.<br/>
 There is a communication failure with one of the cartridges.<br/>
 The "X" indicates which cartridge: 0=black, 1=cyan, 2=magenta, 3=yellow.<br/>
-Turn the printer off and then on. Remove and reinstall the cartridge(s). <br/>
+Turn the printer off and then on.<br/> 
+Remove and reinstall the cartridge(s). <br/>
 If the error persists, replace the cartridge(s).<br/> 
 If the error still persists, contact HP.
 ___________________________________________________________________________________________
