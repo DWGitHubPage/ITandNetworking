@@ -1011,7 +1011,17 @@ RJ-11 - Registered Jack Function 11
 
 RJ-45 - Registered Jack Function 45
 
-RMA - Returned Materials Authorization
+RMA - Returned Materials Authorization or Return Merchandise Authorization
+
+RMC - Rack Mount Chassis
+
+RMC - Redundancy Management Control
+
+RMC - Resource Monitoring and Control
+
+RMC - Rich Media Communications
+
+RMC - Right Mouse Click
 
 RMM - Remote Monitoring and Management
 
