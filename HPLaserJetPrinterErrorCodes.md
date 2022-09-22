@@ -58,12 +58,12 @@ The warranty for the cartridge has ended. Replace the cartridge.
 ___________________________________________________________________________________________
 
 10.7100
-One of the color cartridges is empty.
+One of the color cartridges is empty.<br/>
 Replace the depleted color cartridge.
 ___________________________________________________________________________________________
 
 10.8100
-The black cartridge is empty.
+The black cartridge is empty.<br/>
 Replace the depleted black cartridge.
 ___________________________________________________________________________________________
 
@@ -97,21 +97,21 @@ Replace to continue printing.<br/>
 More information at www.hp.com/learn/ds.
 ___________________________________________________________________________________________
 
-Used cartridges installed
-Used cartridges have been installed.
-The cartridges are most likely refilled cartridges.
+Used cartridges installed.<br/>
+Used cartridges have been installed.<br/>
+The cartridges are most likely refilled cartridges.<br/>
 Replace any non-HP or refilled cartridges with genuine HP cartridges.
 ___________________________________________________________________________________________
 
-Used <color> cartridge is installed
-A used color cartridge has been installed.
-The cartridge is most likely refilled cartridges.
+Used <color> cartridge is installed.<br/>
+A used color cartridge has been installed.<br/>
+The cartridge is most likely refilled cartridges.<br/>
 Replace any non-HP or refilled cartridges with genuine HP cartridges.
 ___________________________________________________________________________________________
 
 UI
-Used cartridges have been installed.
-The cartridges are most likely refilled cartridges.
+Used cartridges have been installed.<br/>
+The cartridges are most likely refilled cartridges.<br/>
 Replace any non-HP or refilled cartridges with genuine HP cartridges.
 ___________________________________________________________________________________________
   
