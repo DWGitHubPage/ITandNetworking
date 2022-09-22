@@ -8,7 +8,7 @@ If the error persists, remove and reinstall all the cartridges.
 ___________________________________________________________________________________________
 
 99.106B Used cartridges installed.   
-Used cartridge(s) have been installed.
+Used cartridge(s) have been installed.<br/>
 The cartridges are most likely refilled cartridges.
 Replace any non-HP or refilled cartridges with genuine HP cartridges.
 ___________________________________________________________________________________________
