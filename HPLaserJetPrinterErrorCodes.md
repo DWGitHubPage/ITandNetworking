@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 99.106B Used cartridges installed.   
 Used cartridge(s) have been installed.<br/>
-The cartridges are most likely refilled cartridges.
+The cartridges are most likely refilled cartridges.<br/>
 Replace any non-HP or refilled cartridges with genuine HP cartridges.
 ___________________________________________________________________________________________
 
