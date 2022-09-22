@@ -1189,6 +1189,8 @@ SSPM - SaaS Security Posture Management
 
 ST - Straight Tip or Snap Twist
 
+STI - System Tray Icon
+
 STIX - Structured Threat Information eXpression
 
 STP - Shielded Twisted Pair
