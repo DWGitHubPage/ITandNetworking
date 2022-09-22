@@ -413,6 +413,8 @@ FDD - Floppy Disk Drive
 
 FDE - Full Disk Encryption
 
+FDN - Fax, Duplex, Network
+
 FHRP - First Hop Redundancy Protocol
 
 FIM - File Integrity Monitoring 
