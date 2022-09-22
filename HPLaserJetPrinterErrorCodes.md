@@ -1,4 +1,4 @@
-HP LaserJet Printer Error Codes.
+HP LaserJet Printer Error Codes:
 ___________________________________________________________________________________________
 
 99.101F Cartridge missing.    
