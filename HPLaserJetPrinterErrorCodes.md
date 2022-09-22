@@ -14,6 +14,7 @@ Replace any non-HP or refilled cartridges with genuine HP cartridges.
 
 
 99.1088 NOT HP Genuine cartridge.
+
 You are not using a genuine HP cartridge.
 Replace any non-HP or refilled cartridges with genuine HP cartridges.
 
