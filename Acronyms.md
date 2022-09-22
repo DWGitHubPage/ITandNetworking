@@ -1093,6 +1093,8 @@ SEC - Single Edge Connector
 
 SEH - Structured Exception Handling 
 
+SER - Satellite Equipment Room
+
 SER - Search Engine Ranking
 
 SFC - System File Checker
