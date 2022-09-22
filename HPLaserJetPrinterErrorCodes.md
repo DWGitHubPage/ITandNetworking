@@ -23,13 +23,13 @@ You are using a genuine HP cartridge.<br/>
 This is informational only, and no action needs to be taken.
 ___________________________________________________________________________________________
 
-10.0004 Supply error or 10.1004 Supply memory error
+10.0004 Supply error or 10.1004 Supply memory error.<br/>
 There is a communication failure with the imaging drum.
 Turn the printer off and then on. If the error persists, replace the imaging drum. 
 If the error still persists, contact HP.
 ___________________________________________________________________________________________
 
-10.000X Supply memory error or 10.100X Supply memory error
+10.000X Supply memory error or 10.100X Supply memory error.<br/>
 There is a communication failure with one of the cartridges.
 The "X" indicates which cartridge: 0=black, 1=cyan, 2=magenta, 3=yellow.
 Turn the printer off and then on. Remove and reinstall the cartridge(s). 
