@@ -41,19 +41,19 @@ ________________________________________________________________________________
 
 10.310X
 A non-HP cartridge is installed.<br/>
-The "X" indicates which cartridge: 0=black, 1=cyan, 2=magenta, 3=yellow.
+The "X" indicates which cartridge: 0=black, 1=cyan, 2=magenta, 3=yellow.<br/>
 Replace any non-HP or refilled cartridges with genuine HP cartridges.
 ___________________________________________________________________________________________
 
 10.330X
 A used (X) cartridge is installed.<br/>
-The "X" indicates which cartridge: 0=black, 1=cyan, 2=magenta, 3=yellow.
+The "X" indicates which cartridge: 0=black, 1=cyan, 2=magenta, 3=yellow.<br/>
 Replace any non-HP or refilled cartridges with genuine HP cartridges.
 ___________________________________________________________________________________________
 
 10.700X
 The cartridge life status has passed the “Very Low” stage.<br/>
-The "X" indicates which cartridge: 0=black, 1=cyan, 2=magenta, 3=yellow.
+The "X" indicates which cartridge: 0=black, 1=cyan, 2=magenta, 3=yellow.<br/>
 The warranty for the cartridge has ended. Replace the cartridge.
 ___________________________________________________________________________________________
 
