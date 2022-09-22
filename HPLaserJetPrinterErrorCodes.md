@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 99.101F Cartridge missing.    
 A cartridge is missing or is not installed properly.   
-Correctly install the cartridge(s) into the printer. 
+Correctly install the cartridge(s) into the printer.<br/>
 If the error persists, remove and reinstall all the cartridges.
 ___________________________________________________________________________________________
 
