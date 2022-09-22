@@ -39,19 +39,19 @@ If the error still persists, contact HP.
 ___________________________________________________________________________________________
 
 10.310X
-A non-HP cartridge is installed.
+A non-HP cartridge is installed.<br/>
 The "X" indicates which cartridge: 0=black, 1=cyan, 2=magenta, 3=yellow.
 Replace any non-HP or refilled cartridges with genuine HP cartridges.
 ___________________________________________________________________________________________
 
 10.330X
-A used (X) cartridge is installed.
+A used (X) cartridge is installed.<br/>
 The "X" indicates which cartridge: 0=black, 1=cyan, 2=magenta, 3=yellow.
 Replace any non-HP or refilled cartridges with genuine HP cartridges.
 ___________________________________________________________________________________________
 
 10.700X
-The cartridge life status has passed the “Very Low” stage.
+The cartridge life status has passed the “Very Low” stage.<br/>
 The "X" indicates which cartridge: 0=black, 1=cyan, 2=magenta, 3=yellow.
 The warranty for the cartridge has ended. Replace the cartridge.
 ___________________________________________________________________________________________
@@ -67,30 +67,32 @@ Replace the depleted black cartridge.
 ___________________________________________________________________________________________
 
 Cartridge is low.
-The cartridge is nearing the estimated end of its useful life.
+The cartridge is nearing the estimated end of its useful life.<br/>
 You can continue to print, but consider having a replacement cartridge available.
 ___________________________________________________________________________________________
 
 Cartridge is Very Low.
-The cartridge is at the estimated end of its useful life.
+The cartridge is at the estimated end of its useful life.<br/>
 To avoid print quality interruptions, HP recommends replacing the cartridge at this point, 
-but you can continue printing until you notice a decrease in print quality. Actual cartridge life can vary.
+but you can continue printing until you notice a decrease in print quality.<br/> 
+Actual cartridge life can vary.
 ___________________________________________________________________________________________
 
 Cartridge missing.
-A cartridge is not installed or is installed incorrectly.
-Replace any missing cartridges, and make sure that the cartridges are installed correctly. Remove and reinstall 
-all of the cartridges, if necessary.
+A cartridge is not installed or is installed incorrectly.<br/>
+Replace any missing cartridges, and make sure that the cartridges are installed correctly.<br/>
+Remove and reinstall all of the cartridges, if necessary.
 ___________________________________________________________________________________________
 
 Non-HP Chip Detected
-The indicated cartridges have been blocked by the printer firmware because they contain a non-HP chip. 
-This printer is intended to work only with new or reused cartridges that have a new or reused HP chip.
+The indicated cartridges have been blocked by the printer firmware because they contain a non-HP chip.<br/> 
+This printer is intended to work only with new or reused cartridges that have a new or reused HP chip.<br/>
 Replace the indicated cartridges to continue printing. For more information, go to www.hp.com/learn/ds.
 ___________________________________________________________________________________________
 
 Non-HP Chip.
-The indicated cartridges are blocked because they contain a non-HP chip. Replace to continue printing. 
+The indicated cartridges are blocked because they contain a non-HP chip.<br/> 
+Replace to continue printing.<br/> 
 More information at www.hp.com/learn/ds.
 ___________________________________________________________________________________________
 
