@@ -26,7 +26,7 @@ ________________________________________________________________________________
 10.0004 Supply error or 10.1004 Supply memory error.<br/>
 There is a communication failure with the imaging drum.<br/>
 Turn the printer off and then on.<br/>
-If the error persists, replace the imaging drum. 
+If the error persists, replace the imaging drum.<br/> 
 If the error still persists, contact HP.
 ___________________________________________________________________________________________
 
