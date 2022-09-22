@@ -91,6 +91,8 @@ _________________________________________________________________________
 
 BASH - Bourne Again Shell
 
+BBU - Baseband Unit
+
 BCP - Business Continuity Planning
 
 BD-R - Blu-ray Disc Recordable
@@ -432,6 +434,20 @@ FSB - Front-Side Bus
 FTP - File Transfer Protocol
 
 FTPS - File Transfer Protocol Secure 
+
+FTTA - Fiber to the Antenna
+
+FTTC - Fiber to the Curb
+
+FTTB - Fiber to the Building
+
+FTTH - Fiber to the Home
+
+FTTN - Fiber to the Node
+
+FTTP - Fiber to the Premises
+
+FTTx - Fiber to the "x"
 
 _________________________________________________________________________
 
@@ -917,6 +933,8 @@ PoC - Proof of Concept
 
 PoE - Power over Ethernet
 
+PON - Passive Optical Network
+
 POP - Post Office Protocol
 
 POP3 - Post Office Protocol 3
@@ -1032,6 +1050,8 @@ ROI - Return on Investment
 ROM - Read Only Memory
 
 RPO - Recovery Point Objective
+
+RRH - Remote Radio Head
 
 RSA - Rivest, Shamir, & Adleman
 
