@@ -85,13 +85,13 @@ Replace any missing cartridges, and make sure that the cartridges are installed 
 Remove and reinstall all of the cartridges, if necessary.
 ___________________________________________________________________________________________
 
-Non-HP Chip Detected
+Non-HP Chip Detected.<br/>
 The indicated cartridges have been blocked by the printer firmware because they contain a non-HP chip.<br/> 
 This printer is intended to work only with new or reused cartridges that have a new or reused HP chip.<br/>
 Replace the indicated cartridges to continue printing. For more information, go to www.hp.com/learn/ds.
 ___________________________________________________________________________________________
 
-Non-HP Chip.
+Non-HP Chip.<br/>
 The indicated cartridges are blocked because they contain a non-HP chip.<br/> 
 Replace to continue printing.<br/> 
 More information at www.hp.com/learn/ds.
@@ -109,7 +109,7 @@ The cartridge is most likely refilled cartridges.<br/>
 Replace any non-HP or refilled cartridges with genuine HP cartridges.
 ___________________________________________________________________________________________
 
-UI
+UI.<br/>
 Used cartridges have been installed.<br/>
 The cartridges are most likely refilled cartridges.<br/>
 Replace any non-HP or refilled cartridges with genuine HP cartridges.
