@@ -21,6 +21,8 @@ ACPI - Advanced Configuration Power Interface
 
 AD - Active Directory
 
+AD - Availability Domain
+
 ADF - Automatic Document Feeder
 
 ADSL - Asymmetrical Digital Subscriber Line
@@ -798,6 +800,8 @@ NTSC - National Transmission Standards Committee
 NVMe - Non-volatile Memory Express
 
 _________________________________________________________________________
+
+OCID - Oracle Cloud Identifier
 
 OCR - Optical Character Recognition
 
