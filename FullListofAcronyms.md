@@ -285,6 +285,8 @@ DIN - Deutsche Industrie Norm
 
 DKIM - Domain Keys Identified Mail
 
+DLE - Downloadable Emulation (Card)
+
 DLL - Dynamic-link Library
 
 DLP - Data Loss Prevention
