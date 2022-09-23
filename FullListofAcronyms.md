@@ -371,13 +371,15 @@ EMI - Electromagnetic Interference
 
 EMP - Electromagnetic Pulse
 
-EPROM - Erasable Programmable Read-Only Memory
+EOJ - End of Job
 
 EOL - End of Life
 
 EOS - End of Service 
 
 EPP - Enhanced Parallel Port
+
+EPROM - Erasable Programmable Read-Only Memory
 
 ERD - Emergency Repair Disk
 
