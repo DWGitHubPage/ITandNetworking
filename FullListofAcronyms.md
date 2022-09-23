@@ -77,6 +77,8 @@ ATAPI - Advanced Technology Attachment Packet Interface
 
 ATM - Asynchronous Transfer Mode
 
+ATM - Automated Teller Machine
+
 ATT&CK - Adversarial Tactics, Techniques, and Common Knowledge
 
 ATX - Advanced Technology Extended
@@ -701,6 +703,8 @@ mGRE - Multipoint Generic Routing Encapsulation
 
 MIB - Management Information Base
 
+MICR - Magnetic Ink Character Recognition (Toner)
+
 MicroDIMM - Micro Dual Inline Memory Module
 
 MIDI - Musical Instrument Digital Interface
@@ -962,6 +966,8 @@ PSK - Pre-Shared Key
 PSTN - Public Switched Telephone Network
 
 PSU - Power Supply Unit
+
+PTM - Personal Teller Machine
 
 PTR - Pointer Record
 
