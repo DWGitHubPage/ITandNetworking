@@ -835,6 +835,8 @@ OID - Object Identifier
 
 OLED - Organic Light-emitting Diode
 
+ONR - Overnight Replacement
+
 ONT - Optical Network Terminal
 
 OS - Operating System
