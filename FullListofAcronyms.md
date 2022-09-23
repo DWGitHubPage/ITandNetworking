@@ -771,6 +771,8 @@ NAS - Network-attached Storage
 
 NAT - Network Address Translation
 
+NBD - Next Business Day
+
 NDA - Non-disclosure Agreement
 
 NetBEUI - Networked Basic Input/Output System Extended User Interface
