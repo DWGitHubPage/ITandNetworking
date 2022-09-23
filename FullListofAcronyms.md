@@ -1145,6 +1145,8 @@ SIMM - Single Inline Memory Module
 
 SIP - Session Initiation Protocol
 
+SKU - Stock Keeping Unit
+
 SLA - Service-level Agreement
 
 SLAAC - Stateless Address Auto-Configuration
