@@ -1141,6 +1141,8 @@ SFP - Small Form-factor Pluggable
 
 SFTP - SSH File Transfer Protocol or Secure File Transfer Protocol
 
+SGX - Software Guard Extension
+
 SHA - Secure Hashing Algorithm
 
 SIEM - Security Information and Event Management 
