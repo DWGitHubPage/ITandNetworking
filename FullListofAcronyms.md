@@ -933,6 +933,8 @@ PIN - Personal Identification Number
 
 PIV - Personal Identity Verification
 
+PJL - Printer Job Language
+
 PKCS - Public Key Cryptography Standards 
 
 PKI - Public Key Infrastructure
