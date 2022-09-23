@@ -987,6 +987,8 @@ _________________________________________________________________________
 
 RA - Registration Authority
 
+RaaS - Ransomware-as-a-Service
+
 RAD - Rapid Application Development
 
 RADIUS - Remote Authentication Dial-in User Service 
