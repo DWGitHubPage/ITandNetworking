@@ -19,6 +19,10 @@ ACL - Access Control List
 
 ACPI - Advanced Configuration Power Interface
 
+ACS - Access Control System
+
+ACS - Advanced Communication Services
+
 AD - Active Directory
 
 AD - Availability Domain
@@ -242,6 +246,8 @@ CVSS - Common Vulnerability Scoring System
 CWDM - Coarse Wavelength Division Multiplexing
 
 CYOD - Choose Your Own Device
+
+CVAA - Twenty-First Century Communications and Video Accessibility Act
 
 _________________________________________________________________________
 
