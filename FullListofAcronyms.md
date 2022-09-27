@@ -15,6 +15,8 @@ ABAC - Attribute-based Access Control
 
 AC - Alternating Current
 
+ACE - Arbitrary Code Execution
+
 ACL - Access Control List
 
 ACPI - Advanced Configuration Power Interface
@@ -1036,6 +1038,8 @@ RAS - Remote Access Server
 RAT - Remote Access Trojan
 
 RC4 - Rivest Cipher version 4
+
+RCE - Remote Code Execution
 
 RCS - Rich Communication Services
 
