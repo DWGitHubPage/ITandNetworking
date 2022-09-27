@@ -24,4 +24,9 @@ To display information about traffic between devices gathered using CDP, use the
 show cdp traffic
 ______________________________________________________________________________________________
 
+To display detailed information about neighboring devices discovered using CDP, use the show cdp neighbors command in privileged EXEC mode:<br>
+show cdp neighbors [type number] [detail]
+______________________________________________________________________________________________
+[Cisco IOS Cisco Discovery Protocol Command Reference](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/cdp/command/cdp-cr-book.pdf)
+
 [CDP Command Reference](https://www.cisco.com/c/en/us/td/docs/optical/cpt/r9_5/command/reference/cpt95_cr/cpt95_cr_chapter_01101.pdf)
