@@ -3,7 +3,7 @@ Cisco Discovery Protocol commands:
 If there is a CDP attack and you need to disable CDP:<br>
 no cdp enable
 
-To renable CDP globablly:
+To renable CDP globabally:<br>
 cdp run
 
 To renable CDP on a specific interface:
