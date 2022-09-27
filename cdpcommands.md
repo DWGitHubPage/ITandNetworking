@@ -1,20 +1,21 @@
 Cisco Discovery Protocol commands:
+______________________________________________________________________________________________
 
 If there is a CDP attack and you need to disable CDP:<br>
 no cdp enable
-
+______________________________________________________________________________________________
 To renable CDP globabally:<br>
 cdp run
-
+______________________________________________________________________________________________
 To renable CDP on a specific interface:<br>
 cdp enable
-
+______________________________________________________________________________________________
 To display global CDP information, including timer and hold-time information, use the show cdp command in privileged EXEC mode.:<br>
 show cdp
 
 Example:<br>
 Router# show cdp
-
+______________________________________________________________________________________________
 To display information about a specific neighboring device discovered using CDP, use the show cdp entry command in privileged EXEC mode:<br>
 show cdp entry {* | entry-name [protocol | version]}
 
