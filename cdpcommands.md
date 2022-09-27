@@ -6,13 +6,13 @@ no cdp enable
 To renable CDP globabally:<br>
 cdp run
 
-To renable CDP on a specific interface:
+To renable CDP on a specific interface:<br>
 cdp enable
 
 To display global CDP information, including timer and hold-time information, use the show cdp command in privileged EXEC mode.:<br>
 show cdp
 
-Example:
+Example:<br>
 Router# show cdp
 
 To display information about a specific neighboring device discovered using CDP, use the show cdp entry command in privileged EXEC mode:<br>
