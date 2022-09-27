@@ -775,6 +775,8 @@ NaaS - Network as a Service
 
 NAC - Network Access Control
 
+NAD - Network Access Device
+
 NAS - Network-attached Storage
 
 NAT - Network Address Translation
