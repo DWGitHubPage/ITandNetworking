@@ -15,7 +15,7 @@ show cdp
 Example:
 Router# show cdp
 
-To display information about a specific neighboring device discovered using CDP, use the show cdp entry command in privileged EXEC mode:
+To display information about a specific neighboring device discovered using CDP, use the show cdp entry command in privileged EXEC mode:<br>
 show cdp entry {* | entry-name [protocol | version]}
 
 
