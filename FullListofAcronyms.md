@@ -65,6 +65,8 @@ ARO - Annualized Rate of Occurrence
 
 ARP - Address Resolution Protocol
 
+ARS - Action Request System
+
 ASLR - Address Space Layout Randomization
 
 ASP - Active Server Pages
