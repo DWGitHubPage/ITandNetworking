@@ -513,6 +513,8 @@ HDCP - High-bandwidth Digital Content Protection
 
 HDD - Hard Disk Drive
 
+HDLC - High-level Data Link Control
+
 HDMI - High-Definition Multimedia Interface
 
 HIDS - Host-based Intrusion Detection System
