@@ -9,7 +9,7 @@ cdp run
 To renable CDP on a specific interface:
 cdp enable
 
-To display global CDP information, including timer and hold-time information, use the show cdp command in privileged EXEC mode.:
+To display global CDP information, including timer and hold-time information, use the show cdp command in privileged EXEC mode.:<br>
 show cdp
 
 Example:
