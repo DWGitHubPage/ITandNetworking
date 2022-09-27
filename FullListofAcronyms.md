@@ -425,6 +425,8 @@ FAT32 - 32-bit File Allocation Table
 
 FCoE - Fibre Channel over Ethernet
 
+FCS - Frame Check Sequence
+
 FDD - Floppy Disk Drive
 
 FDE - Full Disk Encryption
