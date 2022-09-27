@@ -619,6 +619,8 @@ ISSO - Information Systems Security Officer
 
 ITCP - IT Contingency Plan
 
+ITSM - IT Service Management
+
 ITX - Information Technology eXtended
 
 IV - Initialization Vector
