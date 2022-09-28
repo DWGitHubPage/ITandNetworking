@@ -245,7 +245,15 @@ CSU - Channel Service Unit
 
 CM - Counter-Mode
 
+CSTA - Cisco Security Technical Alliances
+
+CSTA - Computer-Supported Telecommunications Applications
+
+CTI - Computer Telephony Integration
+
 CTO - Chief Technology Officer
+
+CUCME - Cisco Unified Communications Manager Express
 
 CVE - Common Vulnerabilities and Exposures
 
