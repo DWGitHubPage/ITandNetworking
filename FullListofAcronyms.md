@@ -601,6 +601,8 @@ IoC - Indicators of Compromise
 
 IOPS - Input/Output Operations Per Second
 
+IOS -  Internetwork Operating System 
+
 IoT - Internet of Things
 
 IP - Internet Protocol
@@ -810,6 +812,8 @@ NAS - Network-attached Storage
 NAT - Network Address Translation
 
 NBD - Next Business Day
+
+NCS - Network Convergence System
 
 NDA - Non-disclosure Agreement
 
