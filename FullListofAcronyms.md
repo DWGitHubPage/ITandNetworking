@@ -199,6 +199,8 @@ CNAME - Canonical Name
 
 CMD - Command Prompt
 
+CME - Cisco Call Manager Express
+
 CMOS - Complementary Metal-Oxide Semiconductor
 
 CMS - Content Management System
