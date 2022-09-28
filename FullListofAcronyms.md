@@ -151,6 +151,8 @@ C-BT - Computer-based Training
 
 CCMP - Counter-Mode/CBC-MAC Protocol
 
+CCNA - Cisco Certified Network Associate
+
 CCTV - Closed-Circuit Television
 
 CD - Compact Disc
