@@ -153,6 +153,8 @@ CCMP - Counter-Mode/CBC-MAC Protocol
 
 CCNA - Cisco Certified Network Associate
 
+CCNP - Cisco Certified Network Professional
+
 CCTV - Closed-Circuit Television
 
 CD - Compact Disc
