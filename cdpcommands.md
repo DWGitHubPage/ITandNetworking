@@ -28,9 +28,10 @@ To display detailed information about neighboring devices discovered using CDP, 
 show cdp neighbors [type number] [detail]
 ______________________________________________________________________________________________
 
-To specify how often the Cisco IOS software sends Cisco Discovery Protocol updates, use the cdp timer command in global configuration mode. 
-To revert to the default setting, use the noform of this command.<br>
+To specify how often the Cisco IOS software sends Cisco Discovery Protocol updates, use the cdp timer command in global configuration mode.<br> 
 cdp timer seconds<br> 
+
+To revert to the default setting, use the noform of this command.<br>
 no cdp timer
 _______________________________________________________________________________________________
 [Cisco IOS Cisco Discovery Protocol Command Reference](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/cdp/command/cdp-cr-book.pdf)
