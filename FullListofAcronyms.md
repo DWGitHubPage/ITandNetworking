@@ -1427,6 +1427,8 @@ WIFI - Wireless Fidelity
 
 WINS - Windows Internet Name Service
 
+WIP - Work In Progress
+
 WIPS - Wireless Intrusion Prevention System
 
 WISP - Wireless Internet Service Provider
