@@ -1101,6 +1101,12 @@ RMC - Rich Media Communications
 
 RMC - Right Mouse Click
 
+RME - Rack Mount Equipment
+
+RME - Reasonable Maximum Exposure
+
+RME - Reliability Maintenance Engineering
+
 RMM - Remote Monitoring and Management
 
 ROI - Return on Investment
