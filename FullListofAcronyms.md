@@ -1263,6 +1263,8 @@ SRTP - Secure Real-time Transport Protocol
 
 SRV - Service Record
 
+SSCM - Surround Source Code Management
+
 SSD - Solid State Drive
 
 SSH - Secure Shell
