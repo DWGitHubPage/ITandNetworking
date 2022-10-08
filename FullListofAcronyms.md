@@ -513,6 +513,8 @@ GPT - GUID [Globally Unique Identifier] Partition Table
 
 GPU - Graphics Processing Unit 
 
+GRC - Governance, Risk, and Compliance
+
 GRE - Generic Routing Encapsulation
 
 GSM - Global System for Mobile Communications
