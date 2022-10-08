@@ -1331,6 +1331,8 @@ TPM - Trusted Platform Module
 
 TSIG - Transaction Signature
 
+TSMC - Taiwan Semiconductor Manufacturing Company
+
 TTL - Time to Live
 
 TTP - Tactics, Techniques, and Procedures
