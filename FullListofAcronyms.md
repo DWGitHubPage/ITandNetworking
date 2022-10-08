@@ -193,6 +193,8 @@ CIRT - Computer Incident Response Team
 
 CIS - Center for Internet Security
 
+CISO - Chief Information Security Officer
+
 CLI - Command-Line Interface
 
 CNAME - Canonical Name
@@ -206,6 +208,10 @@ CMOS - Complementary Metal-Oxide Semiconductor
 CMS - Content Management System
 
 CN - Common Name
+
+CNP - Certified Network Professional
+
+CNP - Connection Negotiation Protocol
 
 CNR - Communications and Networking Riser
 
@@ -850,6 +856,8 @@ NLX - New Low-profile Extended
 NNTP - Network News Transfer Protocol
 
 NOC - Network Operations Center
+
+NPA - Network Professional Association
 
 NS - Name Server
 
