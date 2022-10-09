@@ -115,6 +115,8 @@ BIA - Business Impact Analysis
 
 BIOS - Basic Input/Output System 
 
+BJT - Bipolar Junction Transistors
+
 BNC - British Naval Connector/Bayonet-Neill-Concelman
 
 BPA - Business Partnership Agreement 
@@ -457,6 +459,8 @@ FDE - Full Disk Encryption
 
 FDN - Fax, Duplex, Network
 
+FET - Field-Effect Transistors
+
 FHRP - First Hop Redundancy Protocol
 
 FIM - File Integrity Monitoring 
@@ -466,6 +470,8 @@ FPGA - Field Programmable Gate Array
 FPM - Fast Page Mode
 
 FQDN - Fully Qualified Domain Name
+
+FRAM (FeRAM, F-RAM) - Ferroelectric Random-Access Memory
 
 FRR - False Rejection Rate 
 
@@ -767,6 +773,8 @@ MMS - Multimedia Message Service
 
 MOA - Memorandum of Agreement
 
+MONOS - Metal-Oxide-Nitride-Oxide-Semiconductor (technology)
+
 MOU - Memorandum of Understanding
 
 MP3 - Moving Picture Experts Group Layer 3 Audio
@@ -854,6 +862,8 @@ NIPS - Network-based Intrusion Prevention System
 NIST - National Institute of Standards & Technology 
 
 NLX - New Low-profile Extended
+
+NMOP (logic) - N-type metal-oxide-semiconductor logic 
 
 NNTP - Network News Transfer Protocol
 
@@ -1072,6 +1082,8 @@ RCE - Remote Code Execution
 RCS - Rich Communication Services
 
 RDP - Remote Desktop Protocol
+
+RDSR - Read Status Register
 
 RF - Radio Frequency
 
@@ -1458,6 +1470,12 @@ WPA - WiFi Protected Access
 WPA2 - Wifi Protected Access 2
 
 WPS - WiFi Protected Setup
+
+WRDI - Write Disable
+
+WRENAL - Write Enable
+
+WRSR - Write Status Register
 
 WUXGA - Wide Ultra Extended Graphics Array
 
