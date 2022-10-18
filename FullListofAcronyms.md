@@ -283,6 +283,8 @@ DaaS - Desktop as a Service
 
 DAC - Discretionary Access Control
 
+DAD - Dual Active Detection
+
 dB - Decibel
 
 DB-9 - Serial Communications D-Shell Connector, 9 pins
@@ -465,6 +467,10 @@ FHRP - First Hop Redundancy Protocol
 
 FIM - File Integrity Monitoring 
 
+FIPS - Federal Information Processing Standards
+
+FND - Field Network Director
+
 FPGA - Field Programmable Gate Array
 
 FPM - Fast Page Mode
@@ -508,6 +514,8 @@ GDI - Graphics Device Interface
 GDPR - General Data Protection Regulation 
 
 GFS - Grandfather-Father-Son
+
+GIR -  Graceful Insertion and Removal
 
 GPG - GNU Privacy Guard
 
@@ -609,6 +617,8 @@ IMEI - International Mobile Equipment Identity
 
 IMSI - International Mobile Subscriber Identity
 
+IND - Industrial Network Director
+
 I/O - Input/Output
 
 IoC - Indicators of Compromise
@@ -662,6 +672,8 @@ ISO - International Organization for Standardization
 ISP - Internet Service Provider
 
 ISSO - Information Systems Security Officer
+
+ISSU -  In-Service Software Upgrade
 
 ITCP - IT Contingency Plan
 
@@ -893,6 +905,8 @@ OCR - Optical Character Recognition
 
 OCSP - Online Certificate Status Protocol 
 
+ODM - Operational Data Manager
+
 OEM - Original Equipment Manufacturer
 
 OID - Object Identifier
@@ -1085,6 +1099,8 @@ RDP - Remote Desktop Protocol
 
 RDSR - Read Status Register
 
+REPM - Replication Manager 
+
 RF - Radio Frequency
 
 RFC - Request for Comment
@@ -1129,6 +1145,8 @@ RME - Reasonable Maximum Exposure
 
 RME - Reliability Maintenance Engineering
 
+RMI - Redundancy Management Interface
+
 RMM - Remote Monitoring and Management
 
 ROI - Return on Investment
@@ -1142,6 +1160,8 @@ RRH - Remote Radio Head
 RSA - Rivest, Shamir, & Adleman
 
 RSSI - Received Signal Strength Indication
+
+RSYNC - Remote Sync
 
 RTBH - Remotely Triggered Black Hole
 
@@ -1204,6 +1224,8 @@ SEH - Structured Exception Handling
 SER - Satellite Equipment Room
 
 SER - Search Engine Ranking
+
+SESA - Symmetric Early Stacking Authentication
 
 SFC - System File Checker
 
@@ -1310,6 +1332,8 @@ STP - Shielded Twisted Pair
 STP - Spanning Tree Protocol
 
 SWG - Secure Web Gateway
+
+SWIM - Software Image Management
 
 SXGA - Super Extended Graphics Array
 
@@ -1484,6 +1508,8 @@ WWAN - Wireless Wide Area Network
 _________________________________________________________________________
 
 XaaS - Anything as a Service
+
+xFSU - Extended Fast Software Upgrade
 
 XGA - Extended Graphics Array
 
