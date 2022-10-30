@@ -297,6 +297,8 @@ DBaaS - Database as a Service
 
 DC - Direct Current
 
+DCE - Data Communications Equipment
+
 DDoS - Distributed Denial-of-Service
 
 DDR - Double Data Rate
@@ -356,6 +358,8 @@ DSA - Digital Signature Algorithm
 DSL - Digital Subscriber Line
 
 DSU - Data Service Unit
+
+DTE - Data Terminal Equipment
 
 DVD - Digital Versatile Disc
 
