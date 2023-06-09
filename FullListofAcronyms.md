@@ -113,6 +113,8 @@ BGP - Border Gateway Protocol
  
 BIA - Business Impact Analysis
 
+BIMI - Brand Indicators for Message Identification
+
 BIOS - Basic Input/Output System 
 
 BJT - Bipolar Junction Transistors
@@ -320,6 +322,8 @@ DHE - Diffie-Hellman Ephemeral
 DIMM - Dual Inline Memory Module
 
 DIN - Deutsche Industrie Norm
+
+DIT - Directory Information Tree
 
 DKIM - Domain Keys Identified Mail
 
@@ -537,6 +541,8 @@ GRE - Generic Routing Encapsulation
 
 GSM - Global System for Mobile Communications
 
+GSSAPI Generic Security Services Application Programming Interface
+
 GUI - Graphical User Interface
 
 GUID - Globally Unique Identifier
@@ -637,6 +643,8 @@ IP - Internet Protocol
 
 IPConfig - Internet Protocol Configuration
 
+IPDS - Intelligent Printer Data Stream
+
 IPP - Internet Printing Protocol
 
 IPS - In-plane Switching
@@ -648,6 +656,8 @@ IPSec - Internet Protocol Security
 IPv4 - Internet Protocol version 4
 
 IPv6 - Internet Protocol version 6
+
+IPX- Internetwork Pocket Exchange
 
 IR - Incident Response
 
@@ -1035,6 +1045,8 @@ POST - Power-on Self-Test
 
 POTS - Plain Old Telephone Service
 
+PPDS - Personal Printer Data Stream
+
 PPP - Point-to-Point Protocol
 
 PPTP - Point-to-Point Tunneling Protocol
@@ -1301,6 +1313,8 @@ SPGA - Staggered Pin Grid Array
 
 SPIM - Spam over Instant Messaging
 
+SPX - Sequenced Pocket Exchange
+
 SQL - Structured Query Language
 
 SQLi - SQL Injection
@@ -1358,6 +1372,8 @@ TDR - Time Domain Reflectometer
 TFTP - Trivial File Transfer Protocol
 
 TGT - Ticket Granting Ticket
+
+TGS - Ticket Granting Service
 
 TIA/EIA - Telecommunications Industry Association/Electronic Industries Alliance
 
